@@ -1,61 +1,25 @@
 {
-  "last_updated": "2026-03-25 19:40:00 UTC",
+  "last_updated": "2026-03-25 19:55:01 UTC",
   "summary": {
-    "total_pnl": 4.75,
-    "markets_traded": 5,
-    "wins": 2,
-    "losses": 3,
-    "win_rate": 40.0,
-    "best_trade": 7.38,
+    "total_pnl": -4.88,
+    "markets_traded": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "best_trade": -4.88,
     "worst_trade": -4.88,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 236,
-      "time": "2026-03-25 19:35:00 UTC",
+      "market": 239,
+      "time": "2026-03-25 19:50:00 UTC",
       "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: +$7.38",
-      "pnl": 7.38,
-      "mode": "paper",
-      "running_pnl": 4.75
-    },
-    {
-      "market": 235,
-      "time": "2026-03-25 19:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement | Settlement: $-4.88",
+      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: $-4.88",
       "pnl": -4.88,
       "mode": "paper",
-      "running_pnl": -2.62
-    },
-    {
-      "market": 234,
-      "time": "2026-03-25 19:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement | Settlement: $-0.25",
-      "pnl": -0.25,
-      "mode": "paper",
-      "running_pnl": 2.25
-    },
-    {
-      "market": 233,
-      "time": "2026-03-25 19:20:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": 2.5
-    },
-    {
-      "market": 232,
-      "time": "2026-03-25 19:15:00 UTC",
-      "phases": "Phase 2 (partial)",
-      "outcome": "P1: window missed | P2: one token complete round trip | Settlement: +$7.38",
-      "pnl": 7.38,
-      "mode": "paper",
-      "running_pnl": 7.38
+      "running_pnl": -4.88
     }
   ]
 }
