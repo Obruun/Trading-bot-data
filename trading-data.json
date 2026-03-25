@@ -1,43 +1,25 @@
 {
-  "last_updated": "2026-03-25 18:45:01 UTC",
+  "last_updated": "2026-03-25 19:20:01 UTC",
   "summary": {
-    "total_pnl": -21.96,
-    "markets_traded": 3,
-    "wins": 0,
-    "losses": 2,
-    "win_rate": 0.0,
-    "best_trade": 0,
-    "worst_trade": -12.25,
+    "total_pnl": 7.38,
+    "markets_traded": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 100.0,
+    "best_trade": 7.38,
+    "worst_trade": 7.38,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 225,
-      "time": "2026-03-25 18:40:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 2 partial fill(s) | Settlement: $-12.25",
-      "pnl": -12.25,
+      "market": 232,
+      "time": "2026-03-25 19:15:00 UTC",
+      "phases": "Phase 2 (partial)",
+      "outcome": "P1: window missed | P2: one token complete round trip | Settlement: +$7.38",
+      "pnl": 7.38,
       "mode": "paper",
-      "running_pnl": -21.96
-    },
-    {
-      "market": 224,
-      "time": "2026-03-25 18:35:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries | Settlement: $-12.25",
-      "pnl": -9.71,
-      "mode": "paper",
-      "running_pnl": -9.71
-    },
-    {
-      "market": 223,
-      "time": "2026-03-25 18:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.6550 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 0.0
+      "running_pnl": 7.38
     }
   ]
 }
