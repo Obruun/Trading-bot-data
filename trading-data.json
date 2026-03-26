@@ -1,151 +1,25 @@
 {
-  "last_updated": "2026-03-25 21:05:01 UTC",
+  "last_updated": "2026-03-26 08:05:01 UTC",
   "summary": {
-    "total_pnl": -36.3,
-    "markets_traded": 15,
-    "wins": 2,
-    "losses": 13,
-    "win_rate": 13.3,
-    "best_trade": 9.91,
-    "worst_trade": -4.88,
+    "total_pnl": 3.6,
+    "markets_traded": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 100.0,
+    "best_trade": 3.6,
+    "worst_trade": 3.6,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 253,
-      "time": "2026-03-25 21:00:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries | Settlement: +$7.38",
-      "pnl": 9.91,
+      "market": 97,
+      "time": "2026-03-26 08:00:00 UTC",
+      "phases": "Phase 2 (partial)",
+      "outcome": "P1: window missed | P2: 4 full round trip(s) across 5 entries",
+      "pnl": 3.6,
       "mode": "paper",
-      "running_pnl": -36.3
-    },
-    {
-      "market": 252,
-      "time": "2026-03-25 20:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": -46.21
-    },
-    {
-      "market": 251,
-      "time": "2026-03-25 20:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement",
-      "pnl": -3.38,
-      "mode": "paper",
-      "running_pnl": -41.34
-    },
-    {
-      "market": 250,
-      "time": "2026-03-25 20:45:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip",
-      "pnl": -2.63,
-      "mode": "paper",
-      "running_pnl": -37.96
-    },
-    {
-      "market": 249,
-      "time": "2026-03-25 20:40:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": -35.34
-    },
-    {
-      "market": 248,
-      "time": "2026-03-25 20:35:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip",
-      "pnl": -4.12,
-      "mode": "paper",
-      "running_pnl": -30.46
-    },
-    {
-      "market": 247,
-      "time": "2026-03-25 20:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries | Settlement: $-4.88",
-      "pnl": -2.33,
-      "mode": "paper",
-      "running_pnl": -26.34
-    },
-    {
-      "market": 246,
-      "time": "2026-03-25 20:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement | Settlement: +$4.75",
-      "pnl": 4.75,
-      "mode": "paper",
-      "running_pnl": -24.0
-    },
-    {
-      "market": 245,
-      "time": "2026-03-25 20:20:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement",
-      "pnl": -2.12,
-      "mode": "paper",
-      "running_pnl": -28.75
-    },
-    {
-      "market": 244,
-      "time": "2026-03-25 20:15:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement",
-      "pnl": -4.0,
-      "mode": "paper",
-      "running_pnl": -26.62
-    },
-    {
-      "market": 243,
-      "time": "2026-03-25 20:10:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": -22.62
-    },
-    {
-      "market": 242,
-      "time": "2026-03-25 20:05:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": -17.75
-    },
-    {
-      "market": 241,
-      "time": "2026-03-25 20:00:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement",
-      "pnl": -3.75,
-      "mode": "paper",
-      "running_pnl": -12.88
-    },
-    {
-      "market": 240,
-      "time": "2026-03-25 19:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 tracking settlement",
-      "pnl": -4.25,
-      "mode": "paper",
-      "running_pnl": -9.12
-    },
-    {
-      "market": 239,
-      "time": "2026-03-25 19:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: one token complete round trip | Settlement: $-4.88",
-      "pnl": -4.88,
-      "mode": "paper",
-      "running_pnl": -4.88
+      "running_pnl": 3.6
     }
   ]
 }
