@@ -1,169 +1,25 @@
 {
-  "last_updated": "2026-03-26 09:25:01 UTC",
+  "last_updated": "2026-03-26 09:35:00 UTC",
   "summary": {
-    "total_pnl": 2.36,
-    "markets_traded": 17,
-    "wins": 5,
-    "losses": 2,
-    "win_rate": 29.4,
-    "best_trade": 4.18,
-    "worst_trade": -5.63,
+    "total_pnl": 0.0,
+    "markets_traded": 1,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "best_trade": 0,
+    "worst_trade": 0,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 113,
-      "time": "2026-03-26 09:20:00 UTC",
+      "market": 115,
+      "time": "2026-03-26 09:30:00 UTC",
       "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.6150 out of range",
+      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.3150 out of range",
       "pnl": 0.0,
       "mode": "paper",
-      "running_pnl": 2.36
-    },
-    {
-      "market": 112,
-      "time": "2026-03-26 09:15:00 UTC",
-      "phases": "None",
-      "outcome": "P1: after cutoff | P2: after cutoff",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 2.36
-    },
-    {
-      "market": 111,
-      "time": "2026-03-26 09:10:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 2 full round trip(s) across 3 entries",
-      "pnl": 1.08,
-      "mode": "paper",
-      "running_pnl": 2.36
-    },
-    {
-      "market": 110,
-      "time": "2026-03-26 09:05:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4450 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 1.28
-    },
-    {
-      "market": 109,
-      "time": "2026-03-26 09:00:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4050 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 1.28
-    },
-    {
-      "market": 108,
-      "time": "2026-03-26 08:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4250 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 1.28
-    },
-    {
-      "market": 107,
-      "time": "2026-03-26 08:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 2 full round trip(s) across 3 entries",
-      "pnl": 4.18,
-      "mode": "paper",
-      "running_pnl": 1.28
-    },
-    {
-      "market": 106,
-      "time": "2026-03-26 08:45:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.3950 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -2.9
-    },
-    {
-      "market": 105,
-      "time": "2026-03-26 08:40:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 5 full round trip(s) across 6 entries",
-      "pnl": 2.31,
-      "mode": "paper",
-      "running_pnl": -2.9
-    },
-    {
-      "market": 104,
-      "time": "2026-03-26 08:35:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries",
-      "pnl": 1.04,
-      "mode": "paper",
-      "running_pnl": -5.22
-    },
-    {
-      "market": 103,
-      "time": "2026-03-26 08:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries",
-      "pnl": -5.63,
-      "mode": "paper",
-      "running_pnl": -6.26
-    },
-    {
-      "market": 102,
-      "time": "2026-03-26 08:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5750 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.63
-    },
-    {
-      "market": 101,
-      "time": "2026-03-26 08:20:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.6700 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.63
-    },
-    {
-      "market": 100,
-      "time": "2026-03-26 08:15:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.7250 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.63
-    },
-    {
-      "market": 99,
-      "time": "2026-03-26 08:10:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4450 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.63
-    },
-    {
-      "market": 98,
-      "time": "2026-03-26 08:05:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: 1 full round trip(s) across 2 entries",
-      "pnl": -4.23,
-      "mode": "paper",
-      "running_pnl": -0.63
-    },
-    {
-      "market": 97,
-      "time": "2026-03-26 08:00:00 UTC",
-      "phases": "Phase 2 (partial)",
-      "outcome": "P1: window missed | P2: 4 full round trip(s) across 5 entries",
-      "pnl": 3.6,
-      "mode": "paper",
-      "running_pnl": 3.6
+      "running_pnl": 0.0
     }
   ]
 }
