@@ -1,76 +1,22 @@
 {
-  "last_updated": "2026-03-26 21:00:00 UTC",
+  "last_updated": "2026-03-27 18:10:00 UTC",
   "summary": {
-    "total_pnl": -9.64,
-    "markets_traded": 7,
-    "wins": 1,
-    "losses": 3,
-    "win_rate": 14.3,
-    "best_trade": 0.68,
-    "worst_trade": -4.26,
+    "total_pnl": 0.0,
+    "markets_traded": 1,
+    "wins": 0,
+    "losses": 0,
+    "win_rate": 0.0,
+    "best_trade": 0,
+    "worst_trade": 0,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 252,
-      "time": "2026-03-26 20:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5550 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -9.64
-    },
-    {
-      "market": 251,
-      "time": "2026-03-26 20:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 exited at cutoff",
-      "pnl": -4.26,
-      "mode": "paper",
-      "running_pnl": -9.64
-    },
-    {
-      "market": 250,
-      "time": "2026-03-26 20:45:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: full round trip \u2014 both tokens",
-      "pnl": 0.68,
-      "mode": "paper",
-      "running_pnl": -5.39
-    },
-    {
-      "market": 249,
-      "time": "2026-03-26 20:40:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 exited at cutoff",
-      "pnl": -2.66,
-      "mode": "paper",
-      "running_pnl": -6.06
-    },
-    {
-      "market": 248,
-      "time": "2026-03-26 20:35:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5800 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -3.4
-    },
-    {
-      "market": 247,
-      "time": "2026-03-26 20:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 exited at cutoff",
-      "pnl": -3.4,
-      "mode": "paper",
-      "running_pnl": -3.4
-    },
-    {
-      "market": 246,
-      "time": "2026-03-26 20:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4600 out of range",
+      "market": 218,
+      "time": "2026-03-27 18:05:00 UTC",
+      "phases": "Phase 2 (partial)",
+      "outcome": "P1: window missed | P2: skipped \u2014 only 40s remaining",
       "pnl": 0.0,
       "mode": "paper",
       "running_pnl": 0.0
