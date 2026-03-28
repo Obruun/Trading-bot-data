@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-03-28 11:10:00 UTC",
+  "last_updated": "2026-03-28 11:15:00 UTC",
   "summary": {
-    "total_pnl": 0.21,
-    "markets_traded": 10,
-    "wins": 6,
+    "total_pnl": 1.34,
+    "markets_traded": 11,
+    "wins": 7,
     "losses": 2,
-    "win_rate": 60.0,
+    "win_rate": 63.6,
     "best_trade": 1.13,
     "worst_trade": -4.22,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
+    {
+      "market": 135,
+      "time": "2026-03-28 11:10:00 UTC",
+      "phases": "Phase 1 + Phase 2",
+      "outcome": "P1: no trigger | P2: round trip complete",
+      "pnl": 1.13,
+      "mode": "paper",
+      "running_pnl": 1.34
+    },
     {
       "market": 134,
       "time": "2026-03-28 11:05:00 UTC",
