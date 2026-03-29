@@ -1,94 +1,22 @@
 {
-  "last_updated": "2026-03-29 15:34:55 UTC",
+  "last_updated": "2026-03-29 15:39:55 UTC",
   "summary": {
-    "total_pnl": -0.12,
-    "markets_traded": 9,
-    "wins": 3,
-    "losses": 2,
-    "win_rate": 33.3,
-    "best_trade": 2.61,
-    "worst_trade": -2.02,
+    "total_pnl": 0.66,
+    "markets_traded": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 100.0,
+    "best_trade": 0.66,
+    "worst_trade": 0.66,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 187,
-      "time": "2026-03-29 15:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5750 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.12
-    },
-    {
-      "market": 186,
-      "time": "2026-03-29 15:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5600 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": -0.12
-    },
-    {
-      "market": 185,
-      "time": "2026-03-29 15:20:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 stop loss exit",
-      "pnl": -2.02,
-      "mode": "paper",
-      "running_pnl": -0.12
-    },
-    {
-      "market": 184,
-      "time": "2026-03-29 15:15:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5450 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 1.91
-    },
-    {
-      "market": 183,
-      "time": "2026-03-29 15:10:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4550 out of range",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 1.91
-    },
-    {
-      "market": 182,
-      "time": "2026-03-29 15:05:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 stop loss exit",
-      "pnl": -2.02,
-      "mode": "paper",
-      "running_pnl": 1.91
-    },
-    {
-      "market": 181,
-      "time": "2026-03-29 15:00:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: directional win @ $0.9500 | P2: skipped \u2014 UP mid 0.6250 out of range",
-      "pnl": 2.61,
-      "mode": "paper",
-      "running_pnl": 3.93
-    },
-    {
-      "market": 180,
-      "time": "2026-03-29 14:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: round trip complete",
-      "pnl": 0.66,
-      "mode": "paper",
-      "running_pnl": 1.32
-    },
-    {
-      "market": 179,
-      "time": "2026-03-29 14:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: round trip complete",
+      "market": 188,
+      "time": "2026-03-29 15:35:00 UTC",
+      "phases": "Phase 2 (partial)",
+      "outcome": "P1: window missed | P2: round trip complete",
       "pnl": 0.66,
       "mode": "paper",
       "running_pnl": 0.66
