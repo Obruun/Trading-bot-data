@@ -1,97 +1,25 @@
 {
-  "last_updated": "2026-03-29 18:59:56 UTC",
+  "last_updated": "2026-03-29 19:14:57 UTC",
   "summary": {
-    "total_pnl": 5.4,
-    "markets_traded": 9,
-    "wins": 7,
-    "losses": 2,
-    "win_rate": 77.8,
-    "best_trade": 3.42,
-    "worst_trade": -1.95,
+    "total_pnl": 0.75,
+    "markets_traded": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 100.0,
+    "best_trade": 0.75,
+    "worst_trade": 0.75,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 228,
-      "time": "2026-03-29 18:55:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: round trip complete | P3: snipe win @ $0.9500",
-      "pnl": 0.95,
+      "market": 231,
+      "time": "2026-03-29 19:10:00 UTC",
+      "phases": "Phase 1 + Phase 2 + Phase 3",
+      "outcome": "P1: no trigger | P2: round trip complete | P3: snipe win @ $0.9200",
+      "pnl": 0.75,
       "mode": "paper",
-      "running_pnl": 5.4
-    },
-    {
-      "market": 227,
-      "time": "2026-03-29 18:50:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: round trip complete | P3: snipe entry but no settlement",
-      "pnl": 0.66,
-      "mode": "paper",
-      "running_pnl": 4.46
-    },
-    {
-      "market": 226,
-      "time": "2026-03-29 18:45:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 stop loss exit | P3: snipe win @ $0.9500",
-      "pnl": -1.95,
-      "mode": "paper",
-      "running_pnl": 3.8
-    },
-    {
-      "market": 225,
-      "time": "2026-03-29 18:40:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: directional win @ $0.9500 | P2: skipped \u2014 UP mid 0.4150 out of range | P3: snipe win @ $0.9500",
-      "pnl": 3.42,
-      "mode": "paper",
-      "running_pnl": 5.74
-    },
-    {
-      "market": 224,
-      "time": "2026-03-29 18:35:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: no fills | P3: snipe win @ $0.9500",
-      "pnl": 0.29,
-      "mode": "paper",
-      "running_pnl": 2.33
-    },
-    {
-      "market": 223,
-      "time": "2026-03-29 18:30:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 stop loss exit | P3: snipe win @ $0.9500",
-      "pnl": -1.73,
-      "mode": "paper",
-      "running_pnl": 2.04
-    },
-    {
-      "market": 222,
-      "time": "2026-03-29 18:25:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.4450 out of range | P3: snipe win @ $0.9700",
-      "pnl": 0.4,
-      "mode": "paper",
-      "running_pnl": 3.77
-    },
-    {
-      "market": 221,
-      "time": "2026-03-29 18:20:00 UTC",
-      "phases": "Phase 1 + Phase 2",
-      "outcome": "P1: directional win @ $0.9500 | P2: skipped \u2014 UP mid 0.3900 out of range | P3: snipe win @ $0.9500",
-      "pnl": 3.08,
-      "mode": "paper",
-      "running_pnl": 3.37
-    },
-    {
-      "market": 220,
-      "time": "2026-03-29 18:15:00 UTC",
-      "phases": "Phase 2 (partial)",
-      "outcome": "P1: window missed | P2: skipped \u2014 only 68s remaining | P3: snipe win @ $0.9500",
-      "pnl": 0.29,
-      "mode": "paper",
-      "running_pnl": 0.29
+      "running_pnl": 0.75
     }
   ]
 }
