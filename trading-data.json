@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-03-30 19:14:55 UTC",
+  "last_updated": "2026-03-30 19:19:56 UTC",
   "summary": {
-    "total_pnl": 44.19,
-    "markets_traded": 182,
-    "wins": 132,
+    "total_pnl": 44.7,
+    "markets_traded": 183,
+    "wins": 133,
     "losses": 48,
-    "win_rate": 72.5,
+    "win_rate": 72.7,
     "best_trade": 6.43,
     "worst_trade": -8.55,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
+    {
+      "market": 232,
+      "time": "2026-03-30 19:15:00 UTC",
+      "phases": "Phase 1 + Phase 2 + Phase 3",
+      "outcome": "P1: no trigger | P2: skipped \u2014 UP mid 0.5650 out of range | P3: snipe win @ $0.9900",
+      "pnl": 0.51,
+      "mode": "paper",
+      "running_pnl": 44.7
+    },
     {
       "market": 231,
       "time": "2026-03-30 19:10:00 UTC",
