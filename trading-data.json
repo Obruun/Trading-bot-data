@@ -1,49 +1,22 @@
 {
-  "last_updated": "2026-04-01 21:19:59 UTC",
+  "last_updated": "2026-04-01 21:29:56 UTC",
   "summary": {
-    "total_pnl": 0.97,
-    "markets_traded": 4,
-    "wins": 3,
-    "losses": 1,
-    "win_rate": 75.0,
+    "total_pnl": 1.32,
+    "markets_traded": 1,
+    "wins": 1,
+    "losses": 0,
+    "win_rate": 100.0,
     "best_trade": 1.32,
-    "worst_trade": -2.98,
+    "worst_trade": 1.32,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 256,
-      "time": "2026-04-01 21:15:00 UTC",
+      "market": 258,
+      "time": "2026-04-01 21:25:00 UTC",
       "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: no snipe opportunity",
-      "pnl": 1.32,
-      "mode": "paper",
-      "running_pnl": 0.97
-    },
-    {
-      "market": 255,
-      "time": "2026-04-01 21:10:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: no snipe opportunity",
-      "pnl": 1.32,
-      "mode": "paper",
-      "running_pnl": -0.35
-    },
-    {
-      "market": 254,
-      "time": "2026-04-01 21:05:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 no sell | P3: no snipe opportunity",
-      "pnl": -2.98,
-      "mode": "paper",
-      "running_pnl": -1.66
-    },
-    {
-      "market": 253,
-      "time": "2026-04-01 21:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: no snipe opportunity",
+      "outcome": "P1: no trigger | P2: full round trip | P3: skipped \u2014 spread too small at open",
       "pnl": 1.32,
       "mode": "paper",
       "running_pnl": 1.32
