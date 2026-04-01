@@ -1,79 +1,25 @@
 {
-  "last_updated": "2026-04-01 21:59:55 UTC",
+  "last_updated": "2026-04-01 22:04:56 UTC",
   "summary": {
-    "total_pnl": -13.94,
-    "markets_traded": 7,
-    "wins": 2,
-    "losses": 5,
-    "win_rate": 28.6,
-    "best_trade": 1.32,
-    "worst_trade": -7.66,
+    "total_pnl": -7.55,
+    "markets_traded": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "best_trade": -7.55,
+    "worst_trade": -7.55,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 264,
-      "time": "2026-04-01 21:55:00 UTC",
+      "market": 1,
+      "time": "2026-04-02 00:00:00 UTC",
       "phases": "Phase 1 + Phase 2 + Phase 3",
       "outcome": "P1: directional loss @ $0.0100 | P2: buy(s) filled \u2014 no sell | P3: skipped \u2014 spread too small at open",
-      "pnl": -7.66,
+      "pnl": -7.55,
       "mode": "paper",
-      "running_pnl": -13.94
-    },
-    {
-      "market": 263,
-      "time": "2026-04-01 21:50:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: partial round trip \u2014 one side complete | P3: skipped \u2014 spread too small at open",
-      "pnl": -2.11,
-      "mode": "paper",
-      "running_pnl": -6.28
-    },
-    {
-      "market": 262,
-      "time": "2026-04-01 21:45:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: partial round trip \u2014 one side complete | P3: skipped \u2014 spread too small at open",
-      "pnl": -2.0,
-      "mode": "paper",
-      "running_pnl": -4.18
-    },
-    {
-      "market": 261,
-      "time": "2026-04-01 21:40:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 no sell | P3: snipe win @ $0.9900",
-      "pnl": -2.15,
-      "mode": "paper",
-      "running_pnl": -2.18
-    },
-    {
-      "market": 260,
-      "time": "2026-04-01 21:35:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: buy(s) filled \u2014 no sell | P3: skipped \u2014 spread too small at open",
-      "pnl": -2.66,
-      "mode": "paper",
-      "running_pnl": -0.03
-    },
-    {
-      "market": 259,
-      "time": "2026-04-01 21:30:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: skipped \u2014 spread too small at open",
-      "pnl": 1.32,
-      "mode": "paper",
-      "running_pnl": 2.63
-    },
-    {
-      "market": 258,
-      "time": "2026-04-01 21:25:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: skipped \u2014 spread too small at open",
-      "pnl": 1.32,
-      "mode": "paper",
-      "running_pnl": 1.32
+      "running_pnl": -7.55
     }
   ]
 }
