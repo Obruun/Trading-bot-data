@@ -1,34 +1,25 @@
 {
-  "last_updated": "2026-04-01 20:04:59 UTC",
+  "last_updated": "2026-04-01 20:19:59 UTC",
   "summary": {
-    "total_pnl": 0.0,
-    "markets_traded": 2,
-    "wins": 0,
+    "total_pnl": 1.32,
+    "markets_traded": 1,
+    "wins": 1,
     "losses": 0,
-    "win_rate": 0.0,
-    "best_trade": 0,
-    "worst_trade": 0,
+    "win_rate": 100.0,
+    "best_trade": 1.32,
+    "worst_trade": 1.32,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 241,
-      "time": "2026-04-01 20:00:00 UTC",
+      "market": 244,
+      "time": "2026-04-01 20:15:00 UTC",
       "phases": "Phase 1 + Phase 2 + Phase 3",
       "outcome": "P1: no trigger | P2: full round trip | P3: no snipe opportunity",
-      "pnl": 0.0,
+      "pnl": 1.32,
       "mode": "paper",
-      "running_pnl": 0.0
-    },
-    {
-      "market": 240,
-      "time": "2026-04-01 19:55:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: no snipe opportunity",
-      "pnl": 0.0,
-      "mode": "paper",
-      "running_pnl": 0.0
+      "running_pnl": 1.32
     }
   ]
 }
