@@ -1,17 +1,26 @@
 {
-  "last_updated": "2026-04-02 09:14:55 UTC",
+  "last_updated": "2026-04-02 09:19:55 UTC",
   "summary": {
-    "total_pnl": -153.54,
-    "markets_traded": 135,
-    "wins": 51,
+    "total_pnl": -146.1,
+    "markets_traded": 136,
+    "wins": 52,
     "losses": 84,
-    "win_rate": 37.8,
+    "win_rate": 38.2,
     "best_trade": 7.57,
     "worst_trade": -12.84,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
+    {
+      "market": 112,
+      "time": "2026-04-02 09:15:00 UTC",
+      "phases": "Phase 1 + Phase 2 + Phase 3",
+      "outcome": "P1: directional win @ $0.9900 | P2: full round trip | P3: skipped \u2014 spread too small at open",
+      "pnl": 7.44,
+      "mode": "paper",
+      "running_pnl": -146.1
+    },
     {
       "market": 111,
       "time": "2026-04-02 09:10:00 UTC",
