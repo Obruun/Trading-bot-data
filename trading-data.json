@@ -1,61 +1,25 @@
 {
-  "last_updated": "2026-04-03 10:14:55 UTC",
+  "last_updated": "2026-04-03 10:24:55 UTC",
   "summary": {
-    "total_pnl": -12.93,
-    "markets_traded": 5,
+    "total_pnl": 2.28,
+    "markets_traded": 1,
     "wins": 1,
-    "losses": 4,
-    "win_rate": 20.0,
-    "best_trade": 2.31,
-    "worst_trade": -7.28,
+    "losses": 0,
+    "win_rate": 100.0,
+    "best_trade": 2.28,
+    "worst_trade": 2.28,
     "daily_stop_loss_hit": false,
     "mode": "paper"
   },
   "trades": [
     {
-      "market": 123,
-      "time": "2026-04-03 10:10:00 UTC",
+      "market": 125,
+      "time": "2026-04-03 10:20:00 UTC",
       "phases": "Phase 1 + Phase 2 + Phase 3",
       "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": 2.31,
+      "pnl": 2.28,
       "mode": "paper",
-      "running_pnl": -12.93
-    },
-    {
-      "market": 122,
-      "time": "2026-04-03 10:05:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe loss @ $0.6700 (stop loss), continued down to 0.4300",
-      "pnl": -7.28,
-      "mode": "paper",
-      "running_pnl": -15.24
-    },
-    {
-      "market": 121,
-      "time": "2026-04-03 10:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.24,
-      "mode": "paper",
-      "running_pnl": -7.97
-    },
-    {
-      "market": 120,
-      "time": "2026-04-03 09:55:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.4,
-      "mode": "paper",
-      "running_pnl": -5.72
-    },
-    {
-      "market": 119,
-      "time": "2026-04-03 09:50:00 UTC",
-      "phases": "Phase 2 (partial) + Phase 3",
-      "outcome": "P1: window missed | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -3.32,
-      "mode": "paper",
-      "running_pnl": -3.32
+      "running_pnl": 2.28
     }
   ]
 }
