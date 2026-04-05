@@ -1,286 +1,50 @@
 {
-  "last_updated": "2026-04-05 00:29:59 UTC",
+  "last_updated": "2026-04-05 10:20:01 UTC",
   "summary": {
-    "total_pnl": -31.91,
-    "markets_traded": 30,
-    "wins": 12,
-    "losses": 18,
-    "win_rate": 40.0,
-    "best_trade": 8.34,
-    "worst_trade": -6.16,
+    "total_pnl": -4.54,
+    "markets_traded": 1,
+    "wins": 0,
+    "losses": 1,
+    "win_rate": 0.0,
+    "best_trade": -4.54,
+    "worst_trade": -4.54,
     "daily_stop_loss_hit": false,
-    "mode": "paper"
+    "mode": "paper",
+    "p1w_wins": 0,
+    "p1w_losses": 1,
+    "p1w_pnl": -4.92,
+    "p1l_wins": 0,
+    "p1l_losses": 0,
+    "p1l_pnl": 0.0,
+    "p2_wins": 1,
+    "p2_losses": 0,
+    "p2_pnl": 0.66,
+    "p2a_wins": 0,
+    "p2a_losses": 0,
+    "p2a_pnl": 0.0,
+    "p3_wins": 0,
+    "p3_losses": 1,
+    "p3_pnl": -0.27
   },
   "trades": [
     {
-      "market": 6,
-      "time": "2026-04-05 00:25:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: partial round trip | P3: snipe loss @ $0.4300 (stop loss), continued down to 0.0100",
-      "pnl": -4.47,
+      "market": 124,
+      "time": "2026-04-05 10:15:00 UTC",
+      "phases": "Phase 1 + Phase 2 + Phase 2A + Phase 3",
+      "outcome": "P1: winner stop loss @ $0.0100, continued down to 0.0100 | P2: full round trip | P2A: no momentum signal | P3: snipe loss @ $0.8700",
+      "pnl": -4.54,
       "mode": "paper",
-      "running_pnl": -31.91
-    },
-    {
-      "market": 5,
-      "time": "2026-04-05 00:20:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.57,
-      "mode": "paper",
-      "running_pnl": -27.44
-    },
-    {
-      "market": 4,
-      "time": "2026-04-05 00:15:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional loss @ $0.0100 | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": -2.61,
-      "mode": "paper",
-      "running_pnl": -24.87
-    },
-    {
-      "market": 3,
-      "time": "2026-04-05 00:10:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional win @ $0.9900 | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": 3.02,
-      "mode": "paper",
-      "running_pnl": -22.26
-    },
-    {
-      "market": 2,
-      "time": "2026-04-05 00:05:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.51,
-      "mode": "paper",
-      "running_pnl": -25.28
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9400",
-      "pnl": 1.89,
-      "mode": "paper",
-      "running_pnl": -22.77
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.77,
-      "mode": "paper",
-      "running_pnl": -24.66
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: partial round trip | P3: snipe win @ $0.9900",
-      "pnl": -1.36,
-      "mode": "paper",
-      "running_pnl": -21.89
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.09,
-      "mode": "paper",
-      "running_pnl": -20.53
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe loss @ $0.3900 (stop loss), continued down to 0.0300",
-      "pnl": -5.55,
-      "mode": "paper",
-      "running_pnl": -18.44
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.49,
-      "mode": "paper",
-      "running_pnl": -1.63
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: aborted \u2014 prices outside filter at 10s | P3: snipe win @ $0.9900",
-      "pnl": 0.5,
-      "mode": "paper",
-      "running_pnl": -10.4
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional win @ $0.9900 | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": 8.34,
-      "mode": "paper",
-      "running_pnl": -10.9
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional loss @ $0.0100 | P2: partial round trip | P3: snipe win @ $0.9900",
-      "pnl": -6.16,
-      "mode": "paper",
-      "running_pnl": -19.24
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe loss @ $0.4900 (stop loss), continued down to 0.3500",
-      "pnl": -5.25,
-      "mode": "paper",
-      "running_pnl": -13.09
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -1.88,
-      "mode": "paper",
-      "running_pnl": -7.84
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe loss @ $0.4400 (stop loss), continued down to 0.0100",
-      "pnl": -4.33,
-      "mode": "paper",
-      "running_pnl": -5.96
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9900",
-      "pnl": -2.49,
-      "mode": "paper",
-      "running_pnl": -1.63
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": 2.28,
-      "mode": "paper",
-      "running_pnl": 0.86
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional win @ $0.9900 | P2: partial round trip | P3: snipe win @ $0.9100",
-      "pnl": 3.8,
-      "mode": "paper",
-      "running_pnl": -1.42
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional win @ $0.9990 | P2: skipped \u2014 mids out of range | P3: snipe win @ $0.9990",
-      "pnl": 2.54,
-      "mode": "paper",
-      "running_pnl": -5.22
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: no snipe opportunity",
-      "pnl": -2.75,
-      "mode": "paper",
-      "running_pnl": -7.76
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": 2.05,
-      "mode": "paper",
-      "running_pnl": -5.0
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional loss @ $0.0100 | P2: partial round trip | P3: snipe win @ $0.9900",
-      "pnl": -6.16,
-      "mode": "paper",
-      "running_pnl": -7.05
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe win @ $0.9000",
-      "pnl": -2.79,
-      "mode": "paper",
-      "running_pnl": -0.89
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: stop loss | P3: snipe loss @ $0.4900 (stop loss), continued down to 0.2300",
-      "pnl": -4.87,
-      "mode": "paper",
-      "running_pnl": 1.9
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: directional win @ $0.9900 | P2: partial round trip | P3: snipe win @ $0.9900",
-      "pnl": 1.73,
-      "mode": "paper",
-      "running_pnl": 6.78
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9400",
-      "pnl": 2.04,
-      "mode": "paper",
-      "running_pnl": 5.04
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: partial round trip | P3: snipe win @ $0.9300",
-      "pnl": 0.71,
-      "mode": "paper",
-      "running_pnl": 3.01
-    },
-    {
-      "market": 1,
-      "time": "2026-04-05 00:00:00 UTC",
-      "phases": "Phase 1 + Phase 2 + Phase 3",
-      "outcome": "P1: no trigger | P2: full round trip | P3: snipe win @ $0.9900",
-      "pnl": 2.3,
-      "mode": "paper",
-      "running_pnl": 2.3
+      "running_pnl": -4.54,
+      "p1_winner_pnl": -4.92,
+      "p1_loser_pnl": 0.0,
+      "p2_pnl": 0.66,
+      "p2a_pnl": 0.0,
+      "p3_pnl": -0.27,
+      "p1_bet_type": "winner",
+      "p1_outcome": "directional loss",
+      "p2_outcome": "full round trip",
+      "p2a_outcome": "no momentum signal",
+      "p3_outcome": "snipe loss @ $0.8700"
     }
   ]
 }
