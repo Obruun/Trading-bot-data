@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-07 19:04:57 UTC",
+  "last_updated": "2026-04-07 19:09:59 UTC",
   "summary": {
-    "total_pnl": -55.87,
-    "markets_traded": 253,
+    "total_pnl": -58.43,
+    "markets_traded": 254,
     "wins": 152,
-    "losses": 101,
-    "win_rate": 60.1,
+    "losses": 102,
+    "win_rate": 59.8,
     "best_trade": 6.94,
     "worst_trade": -7.59,
     "daily_stop_loss_hit": false,
@@ -23,10 +23,29 @@
     "p2a_losses": 9,
     "p2a_pnl": 4.75,
     "p3_wins": 206,
-    "p3_losses": 41,
-    "p3_pnl": -6.3
+    "p3_losses": 42,
+    "p3_pnl": -8.85
   },
   "trades": [
+    {
+      "market": 230,
+      "time": "2026-04-07 19:05:00 UTC",
+      "phases": "Phase 1 + Phase 2 + Phase 2A + Phase 3",
+      "outcome": "P1: no trigger | P2: no fill | P2A: no momentum signal | P3: snipe loss @ $0.4400 (stop loss), REBOUND to 0.9900",
+      "pnl": -2.56,
+      "mode": "paper",
+      "running_pnl": -58.43,
+      "p1_winner_pnl": 0.0,
+      "p1_loser_pnl": 0.0,
+      "p2_pnl": 0.0,
+      "p2a_pnl": 0.0,
+      "p3_pnl": -2.56,
+      "p1_bet_type": null,
+      "p1_outcome": "no trigger",
+      "p2_outcome": "no fill",
+      "p2a_outcome": "no momentum signal",
+      "p3_outcome": "snipe loss @ $0.4400 (stop loss), REBOUND to 0.9900"
+    },
     {
       "market": 229,
       "time": "2026-04-07 19:00:00 UTC",
