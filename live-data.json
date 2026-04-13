@@ -1,19 +1,31 @@
 {
-  "last_updated": "2026-04-13 04:09:19 UTC",
+  "last_updated": "2026-04-13 04:26:33 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -0.55,
-    "markets_seen": 73,
-    "markets_traded": 19,
-    "wins": 13,
+    "total_pnl": -0.1,
+    "markets_seen": 77,
+    "markets_traded": 20,
+    "wins": 14,
     "losses": 6,
-    "win_rate": 68.4,
+    "win_rate": 70.0,
     "best_trade": 1.26,
     "worst_trade": -0.96,
     "daily_stop_loss_hit": false,
     "stake_per_trade": 1.0
   },
   "trades": [
+    {
+      "market": 53,
+      "time": "2026-04-13 04:20:00 UTC",
+      "token": "UP",
+      "entry_price": 0.67,
+      "fill_price": 0.69,
+      "accel": 0.08,
+      "outcome": "win @ $0.9700",
+      "pnl": 0.45,
+      "running_pnl": -0.1,
+      "result": "win"
+    },
     {
       "market": 48,
       "time": "2026-04-13 03:55:00 UTC",
