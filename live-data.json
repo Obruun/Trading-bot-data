@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-04-15 12:59:05 UTC",
+  "last_updated": "2026-04-15 13:19:59 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": -0.45,
-    "markets_seen": 14,
+    "markets_seen": 18,
     "markets_traded": 3,
     "wins": 2,
     "losses": 1,
@@ -12,7 +12,7 @@
     "worst_trade": -0.97,
     "daily_stop_loss_hit": false,
     "stake_per_trade": 1.0,
-    "has_pending_trade": false
+    "has_pending_trade": true
   },
   "trades": [
     {
@@ -50,6 +50,21 @@
       "pnl": -0.97,
       "running_pnl": -0.97,
       "result": "loss"
+    },
+    {
+      "market": 160,
+      "time": "2026-04-15 13:19:59 UTC",
+      "token": "DN",
+      "entry_price": 0.68,
+      "fill_price": 0.6799998911999086,
+      "accel": 0.08000000000000007,
+      "last_price": 0.99,
+      "entry_second": 299,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
+      "status": "pending"
     }
   ]
 }
