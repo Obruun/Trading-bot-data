@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-16 00:39:56 UTC",
+  "last_updated": "2026-04-16 00:44:59 UTC",
   "summary": {
     "total_pnl": 5.13,
-    "markets_traded": 32,
+    "markets_traded": 33,
     "wins": 22,
     "losses": 10,
-    "win_rate": 68.8,
+    "win_rate": 66.7,
     "best_trade": 8.61,
     "worst_trade": -5.21,
     "daily_stop_loss_hit": false,
@@ -28,6 +28,27 @@
     "p3_win_rate": 87.1
   },
   "trades": [
+    {
+      "market": 9,
+      "time": "2026-04-16 00:40:00 UTC",
+      "phases": "Phase 1 + Phase 2A + Phase 3",
+      "outcome": "P1: no trigger | P1A: spread too tight | P2A: no momentum signal | P3: snipe win @ $0.9500",
+      "pnl": 0.0,
+      "mode": "paper",
+      "running_pnl": 5.13,
+      "p1_winner_pnl": 0.0,
+      "p1_loser_pnl": 0.0,
+      "p2a_pnl": 0.0,
+      "p3_pnl": 0.0,
+      "p1_bet_type": null,
+      "p1_outcome": "no trigger",
+      "p2a_outcome": "no momentum signal",
+      "p3_outcome": "snipe win @ $0.9500",
+      "p1w_result": "no trigger",
+      "p1l_result": "no trigger",
+      "p2a_result": "no trigger",
+      "p3_result": "no trigger"
+    },
     {
       "market": 8,
       "time": "2026-04-16 00:35:00 UTC",
