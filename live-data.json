@@ -1,20 +1,32 @@
 {
-  "last_updated": "2026-04-18 02:54:59 UTC",
+  "last_updated": "2026-04-18 03:02:19 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -1.1,
-    "markets_seen": 58,
-    "markets_traded": 10,
+    "total_pnl": -2.95,
+    "markets_seen": 60,
+    "markets_traded": 11,
     "wins": 7,
-    "losses": 3,
-    "win_rate": 70.0,
+    "losses": 4,
+    "win_rate": 63.6,
     "best_trade": 0.86,
     "worst_trade": -1.94,
     "daily_stop_loss_hit": false,
     "stake_per_trade": 2.0,
-    "has_pending_trade": true
+    "has_pending_trade": false
   },
   "trades": [
+    {
+      "market": 35,
+      "time": "2026-04-18 02:50:00 UTC",
+      "token": "UP",
+      "entry_price": 0.62,
+      "fill_price": 0.62,
+      "accel": 0.17,
+      "outcome": "loss @ $0.0300",
+      "pnl": -1.85,
+      "running_pnl": -2.95,
+      "result": "loss"
+    },
     {
       "market": 34,
       "time": "2026-04-18 02:45:00 UTC",
@@ -134,21 +146,6 @@
       "pnl": -1.94,
       "running_pnl": -1.94,
       "result": "loss"
-    },
-    {
-      "market": 35,
-      "time": "2026-04-18 02:54:59 UTC",
-      "token": "UP",
-      "entry_price": 0.62,
-      "fill_price": 0.6199999689999861,
-      "accel": 0.16999999999999998,
-      "last_price": 0.03,
-      "entry_second": 299,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
-      "status": "pending"
     }
   ]
 }
