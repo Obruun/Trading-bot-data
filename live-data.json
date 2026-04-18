@@ -13,7 +13,7 @@
     "worst_trade": 1.1,
     "daily_stop_loss_hit": false,
     "stake_per_trade": 2.0,
-    "has_pending_trade": false,
+    "has_pending_trade": true,
     "p1l_wins": 0,
     "p1l_losses": 1,
     "p1l_pnl": -1,
@@ -46,5 +46,20 @@
       "result": "win",
       "strategy": "P2A"
     },
+    {
+      "market": 100,
+      "time": "2026-04-18 08:19:55 UTC",
+      "token": "DN",
+      "entry_price": 0.455,
+      "fill_price": 0.45999976079988514,
+      "accel": 0.0,
+      "last_price": 0.09,
+      "entry_second": -2,
+      "outcome": "Loss @ 0.02",
+      "pnl": -1,
+      "running_pnl": 1.25,
+      "result": "Loss",
+      "strategy": "P1L"
+    }
   ]
 }
