@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-04-20 01:22:05 UTC",
+  "last_updated": "2026-04-20 01:49:59 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": -2.23,
     "peak_pnl": 2.58,
-    "markets_seen": 40,
+    "markets_seen": 45,
     "markets_traded": 9,
     "wins": 6,
     "losses": 3,
     "win_rate": 66.7,
     "daily_stop_loss_hit": false,
-    "has_pending_trade": false,
+    "has_pending_trade": true,
     "best_trade": 0.87,
     "worst_trade": -2.0,
     "p2a_pnl": -2.23,
@@ -138,6 +138,22 @@
       "pnl": 0.35,
       "running_pnl": 0.35,
       "result": "win",
+      "strategy": "P2A"
+    },
+    {
+      "market": 22,
+      "time": "2026-04-20 01:49:59 UTC",
+      "token": "UP",
+      "entry_price": 0.78,
+      "fill_price": 0.7599998023998538,
+      "accel": 0.19000000000000006,
+      "last_price": 0.99,
+      "entry_second": 260,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
+      "status": "pending",
       "strategy": "P2A"
     }
   ]
