@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-24 17:05:01 UTC",
+  "last_updated": "2026-04-24 17:10:01 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": -23.23,
-    "markets_traded": 43,
-    "wins": 18,
+    "total_pnl": -15.47,
+    "markets_traded": 44,
+    "wins": 19,
     "losses": 25,
-    "win_rate": 41.9,
+    "win_rate": 43.2,
     "stop_loss_hit": false,
     "best_trade": 20.74,
     "worst_trade": -15.0,
@@ -18,14 +18,14 @@
     "p2a_wins": 5,
     "p2a_losses": 2,
     "p2a_win_rate": 71.4,
-    "bs_pnl": 11.05,
-    "bs_wins": 14,
+    "bs_pnl": 17.3,
+    "bs_wins": 15,
     "bs_losses": 25,
-    "bs_win_rate": 35.9,
-    "bsv2_pnl": -19.61,
-    "bsv2_wins": 23,
+    "bs_win_rate": 37.5,
+    "bsv2_pnl": -18.1,
+    "bsv2_wins": 24,
     "bsv2_losses": 19,
-    "bsv2_win_rate": 54.8
+    "bsv2_win_rate": 55.8
   },
   "trades": [
     {
@@ -715,6 +715,22 @@
       "bs_outcome": "loss @ $0.0100 (entry 90s)",
       "bsv2_pnl": -5.0,
       "bsv2_outcome": "loss @ $0.0100"
+    },
+    {
+      "market": 206,
+      "time": "2026-04-24 17:05:00 UTC",
+      "mode": "paper",
+      "pnl": 7.76,
+      "running_pnl": -15.47,
+      "result": "win",
+      "p1l_pnl": 0.0,
+      "p1l_outcome": "no grey zone signal",
+      "p2a_pnl": 0.0,
+      "p2a_outcome": "no momentum signal",
+      "bs_pnl": 6.25,
+      "bs_outcome": "win @ $0.9900 (entry 120s)",
+      "bsv2_pnl": 1.51,
+      "bsv2_outcome": "win @ $0.9900"
     },
     {
       "market": 125,
