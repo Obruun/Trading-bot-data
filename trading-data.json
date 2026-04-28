@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-04-28 15:15:01 UTC",
+  "last_updated": "2026-04-28 15:20:01 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": 21.13,
-    "markets_traded": 41,
+    "total_pnl": 14.13,
+    "markets_traded": 42,
     "wins": 25,
-    "losses": 16,
-    "win_rate": 61.0,
+    "losses": 17,
+    "win_rate": 59.5,
     "stop_loss_hit": false,
     "best_trade": 9.11,
     "worst_trade": -10.0,
@@ -14,19 +14,19 @@
     "p1l_wins": 9,
     "p1l_losses": 4,
     "p1l_win_rate": 69.2,
-    "p2a_pnl": 2.78,
+    "p2a_pnl": 0.78,
     "p2a_wins": 7,
-    "p2a_losses": 1,
-    "p2a_win_rate": 87.5,
+    "p2a_losses": 2,
+    "p2a_win_rate": 77.8,
     "p2b_pnl": 0.0,
     "p2b_wins": 0,
     "p2b_losses": 0,
     "p2b_win_rate": 0.0,
-    "p2b_filtered": 15,
-    "bsv2_pnl": -11.46,
+    "p2b_filtered": 16,
+    "bsv2_pnl": -16.46,
     "bsv2_wins": 23,
-    "bsv2_losses": 18,
-    "bsv2_win_rate": 56.1
+    "bsv2_losses": 19,
+    "bsv2_win_rate": 54.8
   },
   "trades": [
     {
@@ -684,6 +684,22 @@
       "p2b_outcome": "filtered: F2:price $0.7200 > fair $0.4894 (ceil $0.4992)",
       "bsv2_pnl": 4.7,
       "bsv2_outcome": "win @ $0.9700"
+    },
+    {
+      "market": 184,
+      "time": "2026-04-28 15:15:00 UTC",
+      "mode": "paper",
+      "pnl": -7.0,
+      "running_pnl": 14.13,
+      "result": "loss",
+      "p1l_pnl": 0.0,
+      "p1l_outcome": "no grey zone signal",
+      "p2a_pnl": -2.0,
+      "p2a_outcome": "stop loss @ $0.0900",
+      "p2b_pnl": 0.0,
+      "p2b_outcome": "filtered: F1:spread $0.0300 < min $0.0600",
+      "bsv2_pnl": -5.0,
+      "bsv2_outcome": "loss @ $0.2400"
     },
     {
       "market": 99,
