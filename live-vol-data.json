@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-02 13:52:10 UTC",
+  "last_updated": "2026-05-02 13:54:43 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -0.96,
+    "total_pnl": -1.96,
     "peak_pnl": 0.04,
     "markets_seen": 6,
-    "markets_traded": 2,
+    "markets_traded": 3,
     "wins": 1,
-    "losses": 1,
-    "win_rate": 50.0,
+    "losses": 2,
+    "win_rate": 33.3,
     "daily_stop_loss_hit": false,
     "best_trade": 0.04,
     "worst_trade": -1.0,
@@ -16,16 +16,29 @@
     "vol90d_wins": 0,
     "vol90d_losses": 0,
     "vol90d_win_rate": 0.0,
-    "dynvol_pnl": -0.96,
+    "dynvol_pnl": -1.96,
     "dynvol_wins": 1,
-    "dynvol_losses": 1,
-    "dynvol_win_rate": 50.0,
+    "dynvol_losses": 2,
+    "dynvol_win_rate": 33.3,
     "early_pnl": 0.0,
     "early_wins": 0,
     "early_losses": 0,
     "early_win_rate": 0.0
   },
   "trades": [
+    {
+      "market": 167,
+      "time": "2026-05-02 13:50:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.62,
+      "fill_price": 0.89,
+      "edge": 0.1696,
+      "outcome": "loss @ redemption",
+      "pnl": -1.0,
+      "running_pnl": -1.96,
+      "result": "loss",
+      "strategy": "volatility_blended_dynamic_v1"
+    },
     {
       "market": 166,
       "time": "2026-05-02 13:45:00 UTC",
@@ -50,19 +63,6 @@
       "pnl": 0.04,
       "running_pnl": 0.04,
       "result": "win",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 167,
-      "time": "2026-05-02 13:52:09 UTC",
-      "token": "DOWN",
-      "entry_price": 0.62,
-      "fill_price": 0.8899999109995638,
-      "edge": 0.16956004622536547,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "volatility_blended_dynamic_v1"
     }
   ]
