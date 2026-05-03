@@ -1,23 +1,36 @@
 {
-  "last_updated": "2026-05-03 18:50:32 UTC",
+  "last_updated": "2026-05-03 18:52:37 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": 1.97,
+    "total_pnl": 2.29,
     "peak_pnl": 2.97,
     "markets_seen": 20,
-    "markets_traded": 16,
-    "wins": 10,
+    "markets_traded": 17,
+    "wins": 11,
     "losses": 6,
-    "win_rate": 62.5,
+    "win_rate": 64.7,
     "daily_stop_loss_hit": false,
     "best_trade": 1.78,
     "worst_trade": -1.0,
-    "drift_pnl": 1.97,
-    "drift_wins": 10,
+    "drift_pnl": 2.29,
+    "drift_wins": 11,
     "drift_losses": 6,
-    "drift_win_rate": 62.5
+    "drift_win_rate": 64.7
   },
   "trades": [
+    {
+      "market": 226,
+      "time": "2026-05-03 18:45:00 UTC",
+      "token": "UP",
+      "entry_price": 0.67,
+      "fill_price": 0.76,
+      "edge": 0.125,
+      "outcome": "win @ redemption",
+      "pnl": 0.32,
+      "running_pnl": 2.29,
+      "result": "win",
+      "strategy": "implied_probability_drift_v1"
+    },
     {
       "market": 225,
       "time": "2026-05-03 18:40:00 UTC",
@@ -224,19 +237,6 @@
       "pnl": -1.0,
       "running_pnl": -1.0,
       "result": "loss",
-      "strategy": "implied_probability_drift_v1"
-    },
-    {
-      "market": 227,
-      "time": "2026-05-03 18:50:31 UTC",
-      "token": "DOWN",
-      "entry_price": 0.33,
-      "fill_price": 0.339999829999915,
-      "edge": 0.08000000000000007,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "implied_probability_drift_v1"
     }
   ]
