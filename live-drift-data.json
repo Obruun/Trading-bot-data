@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-03 19:42:41 UTC",
+  "last_updated": "2026-05-03 19:45:32 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": 4.7,
     "peak_pnl": 4.7,
-    "markets_seen": 30,
+    "markets_seen": 31,
     "markets_traded": 27,
     "wins": 18,
     "losses": 9,
@@ -367,6 +367,19 @@
       "pnl": -1.0,
       "running_pnl": -1.0,
       "result": "loss",
+      "strategy": "implied_probability_drift_v1"
+    },
+    {
+      "market": 238,
+      "time": "2026-05-03 19:45:31 UTC",
+      "token": "UP",
+      "entry_price": 0.42,
+      "fill_price": 0.47999982719988943,
+      "edge": 0.15000000000000008,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
       "strategy": "implied_probability_drift_v1"
     }
   ]
