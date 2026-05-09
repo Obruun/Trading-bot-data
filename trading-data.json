@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-09 18:04:59 UTC",
+  "last_updated": "2026-05-09 18:09:57 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": -12.24,
-    "total_pnl_slip": -12.24,
+    "total_pnl": -13.26,
+    "total_pnl_slip": -13.26,
     "markets_traded": 6,
     "wins": 0,
-    "losses": 12,
+    "losses": 13,
     "win_rate": 0.0,
     "P1L_pnl": 0.0,
     "P2A_pnl": 0.0,
-    "DRIFT_pnl": -6.12,
+    "DRIFT_pnl": -7.14,
     "FADE_pnl": 0.0,
     "SQUEEZE_pnl": -6.12,
     "ANCHOR_pnl": 0.0,
     "P1L_pnl_slip": 0.0,
     "P2A_pnl_slip": 0.0,
-    "DRIFT_pnl_slip": -6.12,
+    "DRIFT_pnl_slip": -7.14,
     "FADE_pnl_slip": 0.0,
     "SQUEEZE_pnl_slip": -6.12,
     "ANCHOR_pnl_slip": 0.0,
@@ -28,14 +28,14 @@
     "ANCHOR_wins": 0,
     "P1L_losses": 0,
     "P2A_losses": 0,
-    "DRIFT_losses": 6,
+    "DRIFT_losses": 7,
     "FADE_losses": 0,
     "SQUEEZE_losses": 6,
     "ANCHOR_losses": 0
   },
   "trades": [
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.25,
@@ -46,7 +46,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.25,
@@ -57,7 +57,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.6,
@@ -68,7 +68,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "UP",
       "entry": 0.41,
@@ -79,7 +79,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.54,
@@ -90,7 +90,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.57,
@@ -101,7 +101,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.4,
@@ -112,7 +112,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.45,
@@ -123,7 +123,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.56,
@@ -134,7 +134,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "UP",
       "entry": 0.48,
@@ -145,7 +145,7 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "SQUEEZE",
       "side": "UP",
       "entry": 0.7,
@@ -156,13 +156,35 @@
       "mode": "paper"
     },
     {
-      "market": 217,
+      "market": 218,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.33,
       "result": "loss",
       "net_pnl": -1.02,
       "slip_pnl": -1.02,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 218,
+      "strategy": "DRIFT",
+      "side": "UP",
+      "entry": 0.48,
+      "result": "loss",
+      "net_pnl": -1.02,
+      "slip_pnl": -1.02,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 218,
+      "strategy": "SQUEEZE",
+      "side": "DOWN",
+      "entry": 0.59,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
       "winner": "",
       "mode": "paper"
     }
