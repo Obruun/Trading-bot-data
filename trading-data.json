@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-10 00:10:38 UTC",
+  "last_updated": "2026-05-10 00:15:00 UTC",
   "mode": "paper",
   "summary": {
     "total_pnl": -7.526,
     "total_pnl_slip": -10.394,
-    "markets_traded": 26,
+    "markets_traded": 27,
     "wins": 21,
     "losses": 31,
     "win_rate": 40.4,
@@ -391,6 +391,17 @@
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.47,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 3,
+      "strategy": "DRIFT",
+      "side": "UP",
+      "entry": 0.54,
       "result": "pending",
       "net_pnl": null,
       "slip_pnl": null,
