@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-10 09:55:03 UTC",
+  "last_updated": "2026-05-10 09:58:29 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": -4.904,
-    "total_pnl_slip": -5.455,
+    "total_pnl": -5.924,
+    "total_pnl_slip": -6.475,
     "markets_traded": 7,
     "wins": 7,
-    "losses": 9,
-    "win_rate": 43.8,
+    "losses": 10,
+    "win_rate": 41.2,
     "P1L_pnl": 1.178,
     "P2A_pnl": -1.744,
-    "DRIFT_pnl": -0.353,
+    "DRIFT_pnl": -1.373,
     "FADE_pnl": -4.08,
     "SQUEEZE_pnl": 0.096,
     "ANCHOR_pnl": 0.0,
     "P1L_pnl_slip": 1.042,
     "P2A_pnl_slip": -1.794,
-    "DRIFT_pnl_slip": -0.574,
+    "DRIFT_pnl_slip": -1.594,
     "FADE_pnl_slip": -4.08,
     "SQUEEZE_pnl_slip": -0.049,
     "ANCHOR_pnl_slip": 0.0,
@@ -28,14 +28,14 @@
     "ANCHOR_wins": 0,
     "P1L_losses": 0,
     "P2A_losses": 2,
-    "DRIFT_losses": 2,
+    "DRIFT_losses": 3,
     "FADE_losses": 4,
     "SQUEEZE_losses": 1,
     "ANCHOR_losses": 0
   },
   "trades": [
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.76,
@@ -46,7 +46,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.73,
@@ -57,7 +57,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.11,
@@ -68,7 +68,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P2A",
       "side": "DOWN",
       "entry": 0.78,
@@ -79,7 +79,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P1L",
       "side": "DOWN",
       "entry": 0.455,
@@ -90,7 +90,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.51,
@@ -101,7 +101,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.42,
@@ -112,7 +112,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.56,
@@ -123,7 +123,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P2A",
       "side": "DOWN",
       "entry": 0.76,
@@ -134,7 +134,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "UP",
       "entry": 0.35,
@@ -145,7 +145,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "SQUEEZE",
       "side": "UP",
       "entry": 0.44,
@@ -156,7 +156,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "UP",
       "entry": 0.32,
@@ -167,7 +167,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.25,
@@ -178,7 +178,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P2A",
       "side": "UP",
       "entry": 0.68,
@@ -189,7 +189,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.68,
@@ -200,7 +200,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.27,
@@ -211,18 +211,18 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.45,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "loss",
+      "net_pnl": -1.02,
+      "slip_pnl": -1.02,
+      "winner": "UP",
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "SQUEEZE",
       "side": "DOWN",
       "entry": 0.52,
@@ -233,7 +233,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.44,
@@ -244,7 +244,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P1L",
       "side": "UP",
       "entry": 0.48,
@@ -255,7 +255,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "FADE",
       "side": "UP",
       "entry": 0.39,
@@ -266,7 +266,7 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.62,
@@ -277,10 +277,65 @@
       "mode": "paper"
     },
     {
-      "market": 119,
+      "market": 120,
       "strategy": "P2A",
       "side": "UP",
       "entry": 0.64,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 120,
+      "strategy": "P1L",
+      "side": "DOWN",
+      "entry": 0.485,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 120,
+      "strategy": "SQUEEZE",
+      "side": "DOWN",
+      "entry": 0.65,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 120,
+      "strategy": "DRIFT",
+      "side": "DOWN",
+      "entry": 0.65,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 120,
+      "strategy": "FADE",
+      "side": "UP",
+      "entry": 0.31,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 120,
+      "strategy": "ANCHOR",
+      "side": "DOWN",
+      "entry": 0.53,
       "result": "pending",
       "net_pnl": null,
       "slip_pnl": null,
