@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-13 11:43:16 UTC",
+  "last_updated": "2026-05-13 11:45:03 UTC",
   "mode": "paper",
   "summary": {
     "total_pnl": 15.81,
     "total_pnl_slip": -25.623,
-    "markets_traded": 164,
+    "markets_traded": 165,
     "wins": 322,
     "losses": 292,
     "win_rate": 52.4,
@@ -446,6 +446,17 @@
       "strategy": "FADE",
       "side": "DOWN",
       "entry": 0.34,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 141,
+      "strategy": "P2A",
+      "side": "UP",
+      "entry": 0.75,
       "result": "pending",
       "net_pnl": null,
       "slip_pnl": null,
