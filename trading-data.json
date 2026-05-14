@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-14 01:15:50 UTC",
+  "last_updated": "2026-05-14 01:20:03 UTC",
   "mode": "paper",
   "summary": {
     "total_pnl": 10.169,
     "total_pnl_slip": -0.411,
-    "markets_traded": 39,
+    "markets_traded": 40,
     "wins": 84,
     "losses": 67,
     "win_rate": 55.6,
@@ -424,6 +424,28 @@
       "strategy": "DRIFT",
       "side": "DOWN",
       "entry": 0.66,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 16,
+      "strategy": "FADE",
+      "side": "UP",
+      "entry": 0.21,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper"
+    },
+    {
+      "market": 16,
+      "strategy": "P2A",
+      "side": "DOWN",
+      "entry": 0.79,
       "result": "pending",
       "net_pnl": null,
       "slip_pnl": null,
