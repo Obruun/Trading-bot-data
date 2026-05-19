@@ -2,25 +2,25 @@
   "last_updated": "2026-05-19 17:50:08 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -15.22,
+    "total_pnl": 4.06,
     "peak_pnl": 28.17,
     "markets_seen": 224,
     "markets_traded": 404,
-    "wins": 144,
-    "losses": 260,
-    "win_rate": 35.6,
+    "wins": 154,
+    "losses": 250,
+    "win_rate": 38.1,
     "daily_stop_loss_hit": false,
     "best_trade": 13.67,
     "worst_trade": -1.04,
     "drift_pnl": 0,
     "p2a_pnl": 0,
-    "vol_pnl": -15.22,
+    "vol_pnl": 4.06,
     "drift_wins": 0,
     "p2a_wins": 0,
-    "vol_wins": 144,
+    "vol_wins": 154,
     "drift_losses": 0,
     "p2a_losses": 0,
-    "vol_losses": 260
+    "vol_losses": 250
   },
   "trades": [
     {
@@ -3423,10 +3423,10 @@
       "entry_price": 0.72,
       "fill_price": 0.73,
       "edge": 0.065,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": -15.22,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.33,
+      "running_pnl": 4.06,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3436,10 +3436,10 @@
       "entry_price": 0.73,
       "fill_price": 0.74,
       "edge": 0.0648,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": -14.18,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.31,
+      "running_pnl": 3.73,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3451,7 +3451,7 @@
       "edge": 0.0777,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -13.14,
+      "running_pnl": 3.42,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3464,7 +3464,7 @@
       "edge": 0.1127,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -12.1,
+      "running_pnl": 4.46,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3475,10 +3475,10 @@
       "entry_price": 0.68,
       "fill_price": 0.65,
       "edge": 0.0973,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": -11.06,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.50,
+      "running_pnl": 5.50,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3490,7 +3490,7 @@
       "edge": 0.0647,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -10.02,
+      "running_pnl": 5.00,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3503,7 +3503,7 @@
       "edge": 0.065,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -8.98,
+      "running_pnl": 6.04,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3516,7 +3516,7 @@
       "edge": 0.0984,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -7.94,
+      "running_pnl": 7.08,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3527,10 +3527,10 @@
       "entry_price": 0.75,
       "fill_price": 0.76,
       "edge": 0.0669,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": -6.9,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.41,
+      "running_pnl": 8.12,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3542,7 +3542,7 @@
       "edge": 0.1393,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -5.86,
+      "running_pnl": 7.71,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3555,7 +3555,7 @@
       "edge": 0.0912,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -4.82,
+      "running_pnl": 8.75,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3568,7 +3568,7 @@
       "edge": 0.0801,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -3.78,
+      "running_pnl": 9.79,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3581,7 +3581,7 @@
       "edge": 0.0623,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -2.74,
+      "running_pnl": 10.83,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3592,10 +3592,10 @@
       "entry_price": 0.11,
       "fill_price": 0.12,
       "edge": 0.0852,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": -1.7,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.39,
+      "running_pnl": 11.87,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3607,7 +3607,7 @@
       "edge": 0.133,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": -0.66,
+      "running_pnl": 11.48,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3618,10 +3618,10 @@
       "entry_price": 0.62,
       "fill_price": 0.54,
       "edge": 0.1267,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": 0.38,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.81,
+      "running_pnl": 12.52,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3633,7 +3633,7 @@
       "edge": 0.0605,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": 1.42,
+      "running_pnl": 11.71,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3644,10 +3644,10 @@
       "entry_price": 0.77,
       "fill_price": 0.78,
       "edge": 0.0821,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": 2.46,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.24,
+      "running_pnl": 12.75,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3657,10 +3657,10 @@
       "entry_price": 0.15,
       "fill_price": 0.16,
       "edge": 0.0767,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": 3.5,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 5.21,
+      "running_pnl": 12.51,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3672,7 +3672,7 @@
       "edge": 0.0878,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": 4.54,
+      "running_pnl": 7.30,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3685,7 +3685,7 @@
       "edge": 0.0611,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": 5.58,
+      "running_pnl": 8.34,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3696,10 +3696,10 @@
       "entry_price": 0.69,
       "fill_price": 0.7,
       "edge": 0.0661,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": 6.62,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.39,
+      "running_pnl": 9.38,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
@@ -3711,7 +3711,7 @@
       "edge": 0.0613,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": 7.66,
+      "running_pnl": 8.99,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3724,7 +3724,7 @@
       "edge": 0.0673,
       "outcome": "loss @ redemption",
       "pnl": -1.04,
-      "running_pnl": 8.7,
+      "running_pnl": 10.03,
       "result": "loss",
       "strategy": "volatility_blended_dynamic_v1"
     },
@@ -3735,10 +3735,10 @@
       "entry_price": 0.74,
       "fill_price": 0.75,
       "edge": 0.073,
-      "outcome": "loss @ redemption",
-      "pnl": -1.04,
-      "running_pnl": 9.74,
-      "result": "loss",
+      "outcome": "win @ redemption",
+      "pnl": 0.29,
+      "running_pnl": 11.07,
+      "result": "win",
       "strategy": "volatility_blended_dynamic_v1"
     },
     {
