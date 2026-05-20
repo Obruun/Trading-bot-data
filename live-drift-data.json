@@ -1,28 +1,41 @@
 {
-  "last_updated": "2026-05-20 19:37:14 UTC",
+  "last_updated": "2026-05-20 19:39:43 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -9.29,
+    "total_pnl": -8.92,
     "peak_pnl": 3.24,
     "markets_seen": 260,
-    "markets_traded": 567,
-    "wins": 205,
+    "markets_traded": 568,
+    "wins": 206,
     "losses": 362,
-    "win_rate": 36.2,
+    "win_rate": 36.3,
     "daily_stop_loss_hit": false,
     "best_trade": 13.67,
     "worst_trade": -1.06,
     "drift_pnl": 0,
     "p2a_pnl": 0,
-    "vol_pnl": -9.29,
+    "vol_pnl": -8.92,
     "drift_wins": 0,
     "p2a_wins": 0,
-    "vol_wins": 205,
+    "vol_wins": 206,
     "drift_losses": 0,
     "p2a_losses": 0,
     "vol_losses": 362
   },
   "trades": [
+    {
+      "market": 235,
+      "time": "2026-05-20 19:30:00 UTC",
+      "token": "UP",
+      "entry_price": 0.69,
+      "fill_price": 0.7,
+      "edge": 0.0768,
+      "outcome": "win @ redemption",
+      "pnl": 0.37,
+      "running_pnl": -8.92,
+      "result": "win",
+      "strategy": "volatility_blended_dynamic_v1"
+    },
     {
       "market": 234,
       "time": "2026-05-20 19:25:00 UTC",
@@ -1841,32 +1854,6 @@
       "pnl": -1.06,
       "running_pnl": -0.66,
       "result": "loss",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 236,
-      "time": "2026-05-20 19:37:13 UTC",
-      "token": "UP",
-      "entry_price": 0.18,
-      "fill_price": 0.18999987839995622,
-      "edge": 0.0741072668179183,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 235,
-      "time": "2026-05-20 19:31:08 UTC",
-      "token": "UP",
-      "entry_price": 0.69,
-      "fill_price": 0.7000000000000001,
-      "edge": 0.07676445090150674,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "volatility_blended_dynamic_v1"
     }
   ]
