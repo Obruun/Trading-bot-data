@@ -1,28 +1,41 @@
 {
-  "last_updated": "2026-05-20 20:41:55 UTC",
+  "last_updated": "2026-05-20 20:45:18 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -6.83,
+    "total_pnl": -7.89,
     "peak_pnl": 3.24,
-    "markets_seen": 273,
-    "markets_traded": 571,
+    "markets_seen": 274,
+    "markets_traded": 572,
     "wins": 207,
-    "losses": 364,
-    "win_rate": 36.3,
+    "losses": 365,
+    "win_rate": 36.2,
     "daily_stop_loss_hit": false,
     "best_trade": 13.67,
     "worst_trade": -1.06,
     "drift_pnl": 0,
     "p2a_pnl": 0,
-    "vol_pnl": -6.83,
+    "vol_pnl": -7.89,
     "drift_wins": 0,
     "p2a_wins": 0,
     "vol_wins": 207,
     "drift_losses": 0,
     "p2a_losses": 0,
-    "vol_losses": 364
+    "vol_losses": 365
   },
   "trades": [
+    {
+      "market": 248,
+      "time": "2026-05-20 20:35:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.14,
+      "fill_price": 0.14,
+      "edge": 0.0993,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -7.89,
+      "result": "loss",
+      "strategy": "volatility_blended_dynamic_v1"
+    },
     {
       "market": 247,
       "time": "2026-05-20 20:30:00 UTC",
@@ -1893,32 +1906,6 @@
       "pnl": -1.06,
       "running_pnl": -0.66,
       "result": "loss",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 249,
-      "time": "2026-05-20 20:41:54 UTC",
-      "token": "DOWN",
-      "entry_price": 0.17,
-      "fill_price": 0.1799998703999637,
-      "edge": 0.07319609567038357,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 248,
-      "time": "2026-05-20 20:36:39 UTC",
-      "token": "DOWN",
-      "entry_price": 0.14,
-      "fill_price": 0.13999988239998118,
-      "edge": 0.09928653684010535,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "volatility_blended_dynamic_v1"
     }
   ]
