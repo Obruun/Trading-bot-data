@@ -1,28 +1,41 @@
 {
-  "last_updated": "2026-05-20 19:47:36 UTC",
+  "last_updated": "2026-05-20 19:55:23 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -4.71,
+    "total_pnl": -5.77,
     "peak_pnl": 3.24,
-    "markets_seen": 262,
-    "markets_traded": 569,
+    "markets_seen": 264,
+    "markets_traded": 570,
     "wins": 207,
-    "losses": 362,
-    "win_rate": 36.4,
+    "losses": 363,
+    "win_rate": 36.3,
     "daily_stop_loss_hit": false,
     "best_trade": 13.67,
     "worst_trade": -1.06,
     "drift_pnl": 0,
     "p2a_pnl": 0,
-    "vol_pnl": -4.71,
+    "vol_pnl": -5.77,
     "drift_wins": 0,
     "p2a_wins": 0,
     "vol_wins": 207,
     "drift_losses": 0,
     "p2a_losses": 0,
-    "vol_losses": 362
+    "vol_losses": 363
   },
   "trades": [
+    {
+      "market": 238,
+      "time": "2026-05-20 19:45:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.69,
+      "fill_price": 0.7,
+      "edge": 0.062,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -5.77,
+      "result": "loss",
+      "strategy": "volatility_blended_dynamic_v1"
+    },
     {
       "market": 236,
       "time": "2026-05-20 19:35:00 UTC",
@@ -1867,19 +1880,6 @@
       "pnl": -1.06,
       "running_pnl": -0.66,
       "result": "loss",
-      "strategy": "volatility_blended_dynamic_v1"
-    },
-    {
-      "market": 238,
-      "time": "2026-05-20 19:47:35 UTC",
-      "token": "DOWN",
-      "entry_price": 0.69,
-      "fill_price": 0.7000000000000001,
-      "edge": 0.061993961403707165,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "volatility_blended_dynamic_v1"
     }
   ]
