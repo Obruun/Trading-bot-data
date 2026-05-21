@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-21 17:05:01 UTC",
+  "last_updated": "2026-05-21 17:10:03 UTC",
   "mode": "paper",
   "summary": {
     "total_pnl": 12.055,
     "total_pnl_slip": -62.777,
-    "markets_traded": 273,
+    "markets_traded": 274,
     "wins": 508,
     "losses": 507,
     "win_rate": 50.0,
@@ -35,7 +35,7 @@
   },
   "trades": [
     {
-      "market": 205,
+      "market": 206,
       "slug": "btc-updown-5m-1779382800",
       "strategy": "DRIFT",
       "side": "DOWN",
@@ -46,7 +46,63 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-21 17:05:01 UTC"
+      "time": "2026-05-21 17:10:03 UTC"
+    },
+    {
+      "market": 206,
+      "slug": "btc-updown-5m-1779383100",
+      "strategy": "P1L",
+      "side": "DOWN",
+      "entry": 0.465,
+      "elapsed": 18,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-21 17:10:03 UTC"
+    },
+    {
+      "market": 206,
+      "slug": "btc-updown-5m-1779383100",
+      "strategy": "DRIFT",
+      "side": "DOWN",
+      "entry": 0.53,
+      "elapsed": 34,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-21 17:10:03 UTC"
+    },
+    {
+      "market": 206,
+      "slug": "btc-updown-5m-1779383100",
+      "strategy": "FADE",
+      "side": "UP",
+      "entry": 0.36,
+      "elapsed": 81,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-21 17:10:03 UTC"
+    },
+    {
+      "market": 206,
+      "slug": "btc-updown-5m-1779383100",
+      "strategy": "ANCHOR",
+      "side": "DOWN",
+      "entry": 0.63,
+      "elapsed": 87,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-21 17:10:03 UTC"
     },
     {
       "market": 1,
