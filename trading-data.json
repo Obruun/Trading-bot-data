@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-23 20:15:01 UTC",
+  "last_updated": "2026-05-23 20:17:11 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": 0.0,
-    "total_pnl_slip": 0.0,
+    "total_pnl": -1.02,
+    "total_pnl_slip": -1.02,
     "markets_traded": 2,
     "wins": 0,
-    "losses": 0,
+    "losses": 1,
     "win_rate": 0.0,
     "EARLY_pnl": 0.0,
     "CHEAP_pnl": 0.0,
@@ -18,7 +18,7 @@
     "LATE_CERT_pnl": 0.0,
     "EDGE_CHEAP_pnl": 0.0,
     "COMPOSITE_pnl": 0.0,
-    "P2A_pnl": 0.0,
+    "P2A_pnl": -1.02,
     "SQUEEZE_pnl": 0.0,
     "ANCHOR_pnl": 0.0,
     "EARLY_pnl_slip": 0.0,
@@ -31,7 +31,7 @@
     "LATE_CERT_pnl_slip": 0.0,
     "EDGE_CHEAP_pnl_slip": 0.0,
     "COMPOSITE_pnl_slip": 0.0,
-    "P2A_pnl_slip": 0.0,
+    "P2A_pnl_slip": -1.02,
     "SQUEEZE_pnl_slip": 0.0,
     "ANCHOR_pnl_slip": 0.0,
     "EARLY_wins": 0,
@@ -57,27 +57,27 @@
     "LATE_CERT_losses": 0,
     "EDGE_CHEAP_losses": 0,
     "COMPOSITE_losses": 0,
-    "P2A_losses": 0,
+    "P2A_losses": 1,
     "SQUEEZE_losses": 0,
     "ANCHOR_losses": 0
   },
   "trades": [
     {
-      "market": 243,
+      "market": 244,
       "slug": "btc-updown-5m-1779566700",
       "strategy": "P2A",
       "side": "UP",
       "entry": 0.64,
       "elapsed": 271,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "loss",
+      "net_pnl": -1.02,
+      "slip_pnl": -1.02,
+      "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-23 20:15:01 UTC"
+      "time": "2026-05-23 20:17:11 UTC"
     },
     {
-      "market": 243,
+      "market": 244,
       "slug": "btc-updown-5m-1779567000",
       "strategy": "SECOND",
       "side": "DOWN",
@@ -88,7 +88,21 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-23 20:15:01 UTC"
+      "time": "2026-05-23 20:17:11 UTC"
+    },
+    {
+      "market": 244,
+      "slug": "btc-updown-5m-1779567300",
+      "strategy": "SECOND",
+      "side": "UP",
+      "entry": 0.65,
+      "elapsed": 109,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-23 20:17:11 UTC"
     },
     {
       "market": 239,
