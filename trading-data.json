@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-25 01:00:34 UTC",
+  "last_updated": "2026-05-25 01:00:37 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": -57.859,
-    "total_pnl_slip": -127.483,
+    "total_pnl": -57.548,
+    "total_pnl_slip": -127.224,
     "markets_traded": 216,
-    "wins": 320,
+    "wins": 321,
     "losses": 381,
-    "win_rate": 45.6,
+    "win_rate": 45.7,
     "EARLY_pnl": 1.237,
     "CHEAP_pnl": -4.489,
     "CERT_pnl": 0.84,
@@ -20,7 +20,7 @@
     "COMPOSITE_pnl": 6.361,
     "P2A_pnl": -6.572,
     "SQUEEZE_pnl": -22.311,
-    "ANCHOR_pnl": -0.602,
+    "ANCHOR_pnl": -0.291,
     "EARLY_pnl_slip": -5.445,
     "CHEAP_pnl_slip": -7.267,
     "CERT_pnl_slip": 0.118,
@@ -33,7 +33,7 @@
     "COMPOSITE_pnl_slip": 1.922,
     "P2A_pnl_slip": -9.236,
     "SQUEEZE_pnl_slip": -30.303,
-    "ANCHOR_pnl_slip": -2.396,
+    "ANCHOR_pnl_slip": -2.138,
     "EARLY_wins": 16,
     "CHEAP_wins": 1,
     "CERT_wins": 17,
@@ -46,7 +46,7 @@
     "COMPOSITE_wins": 9,
     "P2A_wins": 56,
     "SQUEEZE_wins": 99,
-    "ANCHOR_wins": 26,
+    "ANCHOR_wins": 27,
     "EARLY_losses": 27,
     "CHEAP_losses": 14,
     "CERT_losses": 2,
@@ -64,20 +64,6 @@
   "trades": [
     {
       "market": 13,
-      "slug": "btc-updown-5m-1779666900",
-      "strategy": "ANCHOR",
-      "side": "DOWN",
-      "entry": 0.57,
-      "elapsed": 62,
-      "result": "win",
-      "net_pnl": 0.7144,
-      "slip_pnl": 0.6267,
-      "winner": "DOWN",
-      "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
-    },
-    {
-      "market": 13,
       "slug": "btc-updown-5m-1779667200",
       "strategy": "SQUEEZE",
       "side": "UP",
@@ -88,7 +74,7 @@
       "slip_pnl": 0.1795,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -102,7 +88,7 @@
       "slip_pnl": 0.3489,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -116,7 +102,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -130,7 +116,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -144,7 +130,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -158,7 +144,7 @@
       "slip_pnl": 0.1795,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -172,7 +158,7 @@
       "slip_pnl": 1.0433,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -186,7 +172,7 @@
       "slip_pnl": -1.04,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -200,7 +186,7 @@
       "slip_pnl": 0.1648,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -214,7 +200,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -228,7 +214,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -242,7 +228,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -256,7 +242,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -270,7 +256,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -284,7 +270,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -298,7 +284,7 @@
       "slip_pnl": 0.3114,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -312,7 +298,7 @@
       "slip_pnl": 0.3299,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -326,7 +312,7 @@
       "slip_pnl": 0.3114,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -340,7 +326,7 @@
       "slip_pnl": 0.1795,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -354,7 +340,7 @@
       "slip_pnl": 0.2421,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -368,7 +354,7 @@
       "slip_pnl": 0.1648,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -382,7 +368,7 @@
       "slip_pnl": 1.46,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -396,7 +382,7 @@
       "slip_pnl": 0.3489,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -410,7 +396,7 @@
       "slip_pnl": 0.5225,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -424,7 +410,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -438,7 +424,7 @@
       "slip_pnl": -1.04,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -452,7 +438,7 @@
       "slip_pnl": -1.04,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -466,7 +452,7 @@
       "slip_pnl": -1.04,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -480,7 +466,7 @@
       "slip_pnl": 0.21,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -489,12 +475,12 @@
       "side": "DOWN",
       "entry": 0.74,
       "elapsed": 132,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "win",
+      "net_pnl": 0.3114,
+      "slip_pnl": 0.2587,
+      "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-25 01:00:34 UTC"
+      "time": "2026-05-25 01:00:37 UTC"
     },
     {
       "market": 13,
@@ -507,6 +493,20 @@
       "net_pnl": null,
       "slip_pnl": null,
       "winner": "",
+      "mode": "paper",
+      "time": "2026-05-25 01:00:37 UTC"
+    },
+    {
+      "market": 13,
+      "slug": "btc-updown-5m-1779666900",
+      "strategy": "ANCHOR",
+      "side": "DOWN",
+      "entry": 0.57,
+      "elapsed": 62,
+      "result": "win",
+      "net_pnl": 0.7144,
+      "slip_pnl": 0.6267,
+      "winner": "DOWN",
       "mode": "paper",
       "time": "2026-05-25 01:00:34 UTC"
     },
