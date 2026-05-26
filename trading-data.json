@@ -64,20 +64,6 @@
   "trades": [
     {
       "market": 74,
-      "slug": "btc-updown-5m-1779773400",
-      "strategy": "SQUEEZE",
-      "side": "DOWN",
-      "entry": 0.47,
-      "elapsed": 60,
-      "result": "loss",
-      "net_pnl": -1.04,
-      "slip_pnl": -1.04,
-      "winner": "UP",
-      "mode": "paper",
-      "time": "2026-05-26 06:10:02 UTC"
-    },
-    {
-      "market": 74,
       "slug": "btc-updown-5m-1779773700",
       "strategy": "EARLY",
       "side": "DOWN",
@@ -489,10 +475,10 @@
       "side": "UP",
       "entry": 0.12,
       "elapsed": 75,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "loss",
+      "net_pnl": -1.04,
+      "slip_pnl": -1.04,
+      "winner": "DOWN",
       "mode": "paper",
       "time": "2026-05-26 06:10:02 UTC"
     },
@@ -551,6 +537,20 @@
       "winner": "",
       "mode": "paper",
       "time": "2026-05-26 06:10:02 UTC"
+    },
+    {
+      "market": 74,
+      "slug": "btc-updown-5m-1779773400",
+      "strategy": "SQUEEZE",
+      "side": "DOWN",
+      "entry": 0.47,
+      "elapsed": 60,
+      "result": "loss",
+      "net_pnl": -1.04,
+      "slip_pnl": -1.04,
+      "winner": "UP",
+      "mode": "paper",
+      "time": "2026-05-26 06:09:59 UTC"
     },
     {
       "market": 74,
