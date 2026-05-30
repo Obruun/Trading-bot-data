@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-05-30 20:04:03 UTC",
+  "last_updated": "2026-05-30 20:05:41 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": 224.944,
-    "total_pnl_slip": -319.435,
+    "total_pnl": 225.114,
+    "total_pnl_slip": -319.306,
     "markets_traded": 1876,
-    "wins": 2649,
+    "wins": 2650,
     "losses": 2453,
     "win_rate": 51.9,
     "EARLY_pnl": 81.404,
     "CHEAP_pnl": 17.271,
-    "CERT_pnl": 13.627,
+    "CERT_pnl": 13.797,
     "TIGHT_pnl": -16.935,
     "HOUR_pnl": 72.861,
     "MID_EARLY_pnl": 44.213,
@@ -23,7 +23,7 @@
     "ANCHOR_pnl": -9.996,
     "EARLY_pnl_slip": 22.541,
     "CHEAP_pnl_slip": -5.296,
-    "CERT_pnl_slip": 4.239,
+    "CERT_pnl_slip": 4.369,
     "TIGHT_pnl_slip": -117.014,
     "HOUR_pnl_slip": 21.224,
     "MID_EARLY_pnl_slip": 7.862,
@@ -36,7 +36,7 @@
     "ANCHOR_pnl_slip": -19.804,
     "EARLY_wins": 250,
     "CHEAP_wins": 14,
-    "CERT_wins": 222,
+    "CERT_wins": 223,
     "TIGHT_wins": 231,
     "HOUR_wins": 165,
     "MID_EARLY_wins": 29,
@@ -63,7 +63,7 @@
   },
   "trades": [
     {
-      "market": 241,
+      "market": 242,
       "slug": "btc-updown-5m-1780170300",
       "strategy": "CERT",
       "side": "UP",
@@ -74,21 +74,21 @@
       "slip_pnl": 0.067,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-30 20:04:03 UTC"
+      "time": "2026-05-30 20:05:41 UTC"
     },
     {
-      "market": 241,
+      "market": 242,
       "slug": "btc-updown-5m-1780171200",
       "strategy": "CERT",
       "side": "DOWN",
       "entry": 0.84,
       "elapsed": 164,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "win",
+      "net_pnl": 0.1705,
+      "slip_pnl": 0.1294,
+      "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-30 20:04:03 UTC"
+      "time": "2026-05-30 20:05:41 UTC"
     },
     {
       "market": 235,
