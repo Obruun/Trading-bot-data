@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-30 20:19:59 UTC",
+  "last_updated": "2026-05-30 20:25:00 UTC",
   "mode": "paper",
   "summary": {
     "total_pnl": -2.672,
     "total_pnl_slip": -2.729,
-    "markets_traded": 4,
+    "markets_traded": 3,
     "wins": 1,
     "losses": 3,
     "win_rate": 25.0,
@@ -63,6 +63,20 @@
   },
   "trades": [
     {
+      "market": 245,
+      "slug": "btc-updown-5m-1780172400",
+      "strategy": "P2A",
+      "side": "UP",
+      "entry": 0.91,
+      "elapsed": 271,
+      "result": "pending",
+      "net_pnl": null,
+      "slip_pnl": null,
+      "winner": "",
+      "mode": "paper",
+      "time": "2026-05-30 20:25:00 UTC"
+    },
+    {
       "market": 244,
       "slug": "btc-updown-5m-1780171200",
       "strategy": "SQUEEZE",
@@ -115,62 +129,6 @@
       "net_pnl": -1.02,
       "slip_pnl": -1.02,
       "winner": "UP",
-      "mode": "paper",
-      "time": "2026-05-30 20:19:59 UTC"
-    },
-    {
-      "market": 244,
-      "slug": "btc-updown-5m-1780171800",
-      "strategy": "SQUEEZE",
-      "side": "DOWN",
-      "entry": 0.73,
-      "elapsed": 31,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
-      "mode": "paper",
-      "time": "2026-05-30 20:19:59 UTC"
-    },
-    {
-      "market": 244,
-      "slug": "btc-updown-5m-1780171800",
-      "strategy": "ANCHOR",
-      "side": "DOWN",
-      "entry": 0.62,
-      "elapsed": 56,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
-      "mode": "paper",
-      "time": "2026-05-30 20:19:59 UTC"
-    },
-    {
-      "market": 244,
-      "slug": "btc-updown-5m-1780171800",
-      "strategy": "TIGHT",
-      "side": "UP",
-      "entry": 0.18,
-      "elapsed": 208,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
-      "mode": "paper",
-      "time": "2026-05-30 20:19:59 UTC"
-    },
-    {
-      "market": 244,
-      "slug": "btc-updown-5m-1780172100",
-      "strategy": "P2A",
-      "side": "UP",
-      "entry": 0.87,
-      "elapsed": 261,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
       "mode": "paper",
       "time": "2026-05-30 20:19:59 UTC"
     }
