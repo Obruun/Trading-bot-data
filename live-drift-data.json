@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-31 07:53:09 UTC",
+  "last_updated": "2026-05-31 07:53:11 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": -1.98,
-    "peak_pnl": 0.0,
+    "peak_pnl": 0.14,
     "markets_seen": 3,
     "markets_traded": 3,
     "wins": 1,
@@ -27,19 +27,6 @@
   },
   "trades": [
     {
-      "market": 247,
-      "time": "2026-05-30 20:30:00 UTC",
-      "token": "UP",
-      "entry_price": 0.15,
-      "fill_price": 0.16,
-      "edge": 0.0681,
-      "outcome": "loss @ redemption",
-      "pnl": -1.06,
-      "running_pnl": -1.06,
-      "result": "loss",
-      "strategy": "early_v1"
-    },
-    {
       "market": 253,
       "time": "2026-05-30 21:00:00 UTC",
       "token": "UP",
@@ -49,6 +36,19 @@
       "outcome": "loss @ redemption",
       "pnl": -1.06,
       "running_pnl": -2.12,
+      "result": "loss",
+      "strategy": "early_v1"
+    },
+    {
+      "market": 247,
+      "time": "2026-05-30 20:30:00 UTC",
+      "token": "UP",
+      "entry_price": 0.15,
+      "fill_price": 0.16,
+      "edge": 0.0681,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -1.06,
       "result": "loss",
       "strategy": "early_v1"
     },
