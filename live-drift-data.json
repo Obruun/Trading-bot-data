@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-31 08:08:03 UTC",
+  "last_updated": "2026-05-31 08:11:30 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -3.04,
+    "total_pnl": -4.1,
     "peak_pnl": 0.14,
-    "markets_seen": 6,
-    "markets_traded": 4,
+    "markets_seen": 7,
+    "markets_traded": 5,
     "wins": 1,
-    "losses": 3,
-    "win_rate": 25.0,
+    "losses": 4,
+    "win_rate": 20.0,
     "daily_stop_loss_hit": false,
     "best_trade": 0.14,
     "worst_trade": -1.06,
-    "early_pnl": -3.04,
+    "early_pnl": -4.1,
     "composite_pnl": 0.0,
     "cert_pnl": 0.0,
     "late_cert_pnl": 0.0,
@@ -20,12 +20,25 @@
     "composite_wins": 0,
     "cert_wins": 0,
     "late_cert_wins": 0,
-    "early_losses": 3,
+    "early_losses": 4,
     "composite_losses": 0,
     "cert_losses": 0,
     "late_cert_losses": 0
   },
   "trades": [
+    {
+      "market": 247,
+      "time": "2026-05-30 20:30:00 UTC",
+      "token": "UP",
+      "entry_price": 0.15,
+      "fill_price": 0.16,
+      "edge": 0.0681,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -1.06,
+      "result": "loss",
+      "strategy": "early_v1"
+    },
     {
       "market": 253,
       "time": "2026-05-30 21:00:00 UTC",
@@ -40,15 +53,15 @@
       "strategy": "early_v1"
     },
     {
-      "market": 247,
-      "time": "2026-05-30 20:30:00 UTC",
+      "market": 98,
+      "time": "2026-05-31 08:05:00 UTC",
       "token": "UP",
-      "entry_price": 0.15,
-      "fill_price": 0.16,
-      "edge": 0.0681,
+      "entry_price": 0.68,
+      "fill_price": 0.69,
+      "edge": 0.286,
       "outcome": "loss @ redemption",
       "pnl": -1.06,
-      "running_pnl": -1.06,
+      "running_pnl": -4.1,
       "result": "loss",
       "strategy": "early_v1"
     },
@@ -76,19 +89,6 @@
       "pnl": 0.14,
       "running_pnl": -1.98,
       "result": "win",
-      "strategy": "early_v1"
-    },
-    {
-      "market": 98,
-      "time": "2026-05-31 08:06:01 UTC",
-      "token": "UP",
-      "entry_price": 0.68,
-      "fill_price": 0.6899999585999611,
-      "edge": 0.28598812932484796,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "early_v1"
     }
   ]
