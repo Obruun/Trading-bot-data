@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-31 08:28:55 UTC",
+  "last_updated": "2026-05-31 09:16:02 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": -3.73,
     "peak_pnl": 0.14,
-    "markets_seen": 10,
+    "markets_seen": 20,
     "markets_traded": 6,
     "wins": 2,
     "losses": 4,
@@ -27,19 +27,6 @@
   },
   "trades": [
     {
-      "market": 247,
-      "time": "2026-05-30 20:30:00 UTC",
-      "token": "UP",
-      "entry_price": 0.15,
-      "fill_price": 0.16,
-      "edge": 0.0681,
-      "outcome": "loss @ redemption",
-      "pnl": -1.06,
-      "running_pnl": -1.06,
-      "result": "loss",
-      "strategy": "early_v1"
-    },
-    {
       "market": 253,
       "time": "2026-05-30 21:00:00 UTC",
       "token": "UP",
@@ -49,6 +36,19 @@
       "outcome": "loss @ redemption",
       "pnl": -1.06,
       "running_pnl": -2.12,
+      "result": "loss",
+      "strategy": "early_v1"
+    },
+    {
+      "market": 247,
+      "time": "2026-05-30 20:30:00 UTC",
+      "token": "UP",
+      "entry_price": 0.15,
+      "fill_price": 0.16,
+      "edge": 0.0681,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -1.06,
       "result": "loss",
       "strategy": "early_v1"
     },
@@ -102,6 +102,19 @@
       "pnl": 0.14,
       "running_pnl": -1.98,
       "result": "win",
+      "strategy": "early_v1"
+    },
+    {
+      "market": 112,
+      "time": "2026-05-31 09:16:01 UTC",
+      "token": "DOWN",
+      "entry_price": 0.59,
+      "fill_price": 0.6,
+      "edge": 0.19828196627553019,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
       "strategy": "early_v1"
     }
   ]
