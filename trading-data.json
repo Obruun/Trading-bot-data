@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-31 19:25:08 UTC",
+  "last_updated": "2026-05-31 19:25:15 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": -7.135,
-    "total_pnl_slip": -7.903,
+    "total_pnl": -8.185,
+    "total_pnl_slip": -8.953,
     "markets_traded": 10,
     "wins": 11,
-    "losses": 12,
-    "win_rate": 47.8,
+    "losses": 13,
+    "win_rate": 45.8,
     "EARLY_pnl": 0.0,
     "CHEAP_pnl": 0.0,
     "CERT_pnl": -1.05,
@@ -16,7 +16,7 @@
     "MID_EARLY_pnl": -1.05,
     "SECOND_pnl": -1.05,
     "LATE_CERT_pnl": -1.068,
-    "EDGE_CHEAP_pnl": 0.0,
+    "EDGE_CHEAP_pnl": -1.05,
     "COMPOSITE_pnl": 0.0,
     "P2A_pnl": -1.76,
     "SQUEEZE_pnl": 0.058,
@@ -29,7 +29,7 @@
     "MID_EARLY_pnl_slip": -1.05,
     "SECOND_pnl_slip": -1.05,
     "LATE_CERT_pnl_slip": -1.209,
-    "EDGE_CHEAP_pnl_slip": 0.0,
+    "EDGE_CHEAP_pnl_slip": -1.05,
     "COMPOSITE_pnl_slip": 0.0,
     "P2A_pnl_slip": -1.987,
     "SQUEEZE_pnl_slip": -0.214,
@@ -55,7 +55,7 @@
     "MID_EARLY_losses": 1,
     "SECOND_losses": 1,
     "LATE_CERT_losses": 2,
-    "EDGE_CHEAP_losses": 0,
+    "EDGE_CHEAP_losses": 1,
     "COMPOSITE_losses": 0,
     "P2A_losses": 3,
     "SQUEEZE_losses": 2,
@@ -63,7 +63,7 @@
   },
   "trades": [
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780252500",
       "strategy": "P2A",
       "side": "UP",
@@ -74,10 +74,10 @@
       "slip_pnl": 0.2,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780252800",
       "strategy": "SQUEEZE",
       "side": "UP",
@@ -88,10 +88,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780252800",
       "strategy": "TIGHT",
       "side": "DOWN",
@@ -102,10 +102,10 @@
       "slip_pnl": 0.3786,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780252800",
       "strategy": "LATE_CERT",
       "side": "DOWN",
@@ -116,10 +116,10 @@
       "slip_pnl": 0.3786,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780252800",
       "strategy": "P2A",
       "side": "UP",
@@ -130,10 +130,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253100",
       "strategy": "TIGHT",
       "side": "DOWN",
@@ -144,10 +144,10 @@
       "slip_pnl": 0.3786,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253100",
       "strategy": "LATE_CERT",
       "side": "DOWN",
@@ -158,10 +158,10 @@
       "slip_pnl": 0.5125,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253100",
       "strategy": "P2A",
       "side": "DOWN",
@@ -172,10 +172,10 @@
       "slip_pnl": 0.3199,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253400",
       "strategy": "SQUEEZE",
       "side": "DOWN",
@@ -186,10 +186,10 @@
       "slip_pnl": 0.3389,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253400",
       "strategy": "MID_EARLY",
       "side": "UP",
@@ -200,10 +200,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253400",
       "strategy": "SECOND",
       "side": "UP",
@@ -214,10 +214,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253400",
       "strategy": "TIGHT",
       "side": "UP",
@@ -228,10 +228,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253400",
       "strategy": "P2A",
       "side": "UP",
@@ -242,10 +242,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253700",
       "strategy": "SQUEEZE",
       "side": "DOWN",
@@ -256,10 +256,10 @@
       "slip_pnl": 0.8731,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253700",
       "strategy": "LATE_CERT",
       "side": "UP",
@@ -270,10 +270,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780253700",
       "strategy": "P2A",
       "side": "DOWN",
@@ -284,10 +284,10 @@
       "slip_pnl": 0.1548,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254000",
       "strategy": "CERT",
       "side": "UP",
@@ -298,10 +298,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254000",
       "strategy": "TIGHT",
       "side": "UP",
@@ -312,10 +312,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254000",
       "strategy": "LATE_CERT",
       "side": "UP",
@@ -326,10 +326,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254000",
       "strategy": "P2A",
       "side": "DOWN",
@@ -340,10 +340,10 @@
       "slip_pnl": 0.4885,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254300",
       "strategy": "SQUEEZE",
       "side": "UP",
@@ -354,10 +354,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254600",
       "strategy": "P2A",
       "side": "UP",
@@ -368,10 +368,10 @@
       "slip_pnl": -1.05,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254900",
       "strategy": "SQUEEZE",
       "side": "UP",
@@ -382,24 +382,24 @@
       "slip_pnl": 0.6741,
       "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254900",
       "strategy": "EDGE_CHEAP",
       "side": "DOWN",
       "entry": 0.16,
       "elapsed": 122,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "loss",
+      "net_pnl": -1.05,
+      "slip_pnl": -1.05,
+      "winner": "UP",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254900",
       "strategy": "TIGHT",
       "side": "DOWN",
@@ -410,10 +410,10 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254900",
       "strategy": "LATE_CERT",
       "side": "UP",
@@ -424,10 +424,10 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780254900",
       "strategy": "P2A",
       "side": "UP",
@@ -438,10 +438,10 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780255200",
       "strategy": "SQUEEZE",
       "side": "UP",
@@ -452,10 +452,10 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
-      "market": 233,
+      "market": 234,
       "slug": "btc-updown-5m-1780255200",
       "strategy": "LATE_CERT",
       "side": "DOWN",
@@ -466,7 +466,7 @@
       "slip_pnl": null,
       "winner": "",
       "mode": "paper",
-      "time": "2026-05-31 19:25:08 UTC"
+      "time": "2026-05-31 19:25:15 UTC"
     },
     {
       "market": 224,
