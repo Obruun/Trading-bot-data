@@ -1,22 +1,35 @@
 {
-  "last_updated": "2026-06-14 12:36:02 UTC",
+  "last_updated": "2026-06-14 12:43:55 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -6.91,
+    "total_pnl": -6.56,
     "peak_pnl": 0.0,
-    "markets_seen": 24,
-    "markets_traded": 9,
-    "wins": 2,
+    "markets_seen": 25,
+    "markets_traded": 10,
+    "wins": 3,
     "losses": 7,
-    "win_rate": 22.2,
+    "win_rate": 30.0,
     "daily_stop_loss_hit": false,
     "best_trade": 0.37,
     "worst_trade": -1.06,
-    "hour_pnl": -1.06,
-    "hour_wins": 0,
+    "hour_pnl": -0.71,
+    "hour_wins": 1,
     "hour_losses": 1
   },
   "trades": [
+    {
+      "market": 152,
+      "time": "2026-06-14 12:35:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.68,
+      "fill_price": 0.71,
+      "edge": 0.0805,
+      "outcome": "win @ redemption",
+      "pnl": 0.35,
+      "running_pnl": -6.56,
+      "result": "win",
+      "strategy": "hour_v1"
+    },
     {
       "market": 130,
       "time": "2026-06-14 10:45:00 UTC",
@@ -28,19 +41,6 @@
       "pnl": -1.06,
       "running_pnl": -6.91,
       "result": "loss",
-      "strategy": "hour_v1"
-    },
-    {
-      "market": 152,
-      "time": "2026-06-14 12:36:01 UTC",
-      "token": "DOWN",
-      "entry_price": 0.68,
-      "fill_price": 0.709999943199891,
-      "edge": 0.08048942601277742,
-      "outcome": "pending",
-      "pnl": null,
-      "running_pnl": null,
-      "result": "pending",
       "strategy": "hour_v1"
     }
   ]
