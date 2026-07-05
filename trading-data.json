@@ -48,20 +48,6 @@
   "trades": [
     {
       "market": 158,
-      "slug": "btc-updown-5m-1783250400",
-      "strategy": "TIGHT",
-      "side": "DOWN",
-      "entry": 0.74,
-      "elapsed": 192,
-      "result": "win",
-      "net_pnl": 0.3314,
-      "slip_pnl": 0.2787,
-      "winner": "DOWN",
-      "mode": "paper",
-      "time": "2026-07-05 13:10:02 UTC"
-    },
-    {
-      "market": 158,
       "slug": "btc-updown-5m-1783250700",
       "strategy": "P2A",
       "side": "UP",
@@ -473,10 +459,10 @@
       "side": "DOWN",
       "entry": 0.71,
       "elapsed": 90,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "win",
+      "net_pnl": 0.3885,
+      "slip_pnl": 0.3314,
+      "winner": "DOWN",
       "mode": "paper",
       "time": "2026-07-05 13:10:02 UTC"
     },
@@ -521,6 +507,20 @@
       "winner": "",
       "mode": "paper",
       "time": "2026-07-05 13:10:02 UTC"
+    },
+    {
+      "market": 158,
+      "slug": "btc-updown-5m-1783250400",
+      "strategy": "TIGHT",
+      "side": "DOWN",
+      "entry": 0.74,
+      "elapsed": 192,
+      "result": "win",
+      "net_pnl": 0.3314,
+      "slip_pnl": 0.2787,
+      "winner": "DOWN",
+      "mode": "paper",
+      "time": "2026-07-05 13:09:59 UTC"
     },
     {
       "market": 158,
