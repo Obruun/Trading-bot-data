@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-18 15:44:59 UTC",
+  "last_updated": "2026-07-18 15:46:54 UTC",
   "mode": "paper",
   "summary": {
-    "total_pnl": 1615.667,
-    "total_pnl_slip": -1947.737,
+    "total_pnl": 1614.647,
+    "total_pnl_slip": -1948.757,
     "markets_traded": 12486,
     "wins": 10323,
-    "losses": 9735,
+    "losses": 9736,
     "win_rate": 51.5,
     "TIGHT_pnl": 480.364,
     "HOUR_pnl": 272.484,
     "SECOND_pnl": 266.898,
-    "P2A_pnl": 16.415,
+    "P2A_pnl": 15.395,
     "HOUR_REFINED_pnl": 163.48,
     "CHEAP_FLOOR_pnl": 103.253,
     "SECOND_TIERED_pnl": 84.082,
@@ -20,7 +20,7 @@
     "TIGHT_pnl_slip": -457.718,
     "HOUR_pnl_slip": 56.572,
     "SECOND_pnl_slip": -112.025,
-    "P2A_pnl_slip": -144.604,
+    "P2A_pnl_slip": -145.624,
     "HOUR_REFINED_pnl_slip": 11.678,
     "CHEAP_FLOOR_pnl_slip": -18.646,
     "SECOND_TIERED_pnl_slip": -94.628,
@@ -38,7 +38,7 @@
     "TIGHT_losses": 3804,
     "HOUR_losses": 845,
     "SECOND_losses": 1552,
-    "P2A_losses": 849,
+    "P2A_losses": 850,
     "HOUR_REFINED_losses": 644,
     "CHEAP_FLOOR_losses": 478,
     "SECOND_TIERED_losses": 684,
@@ -47,7 +47,7 @@
   },
   "trades": [
     {
-      "market": 189,
+      "market": 190,
       "slug": "btc-updown-5m-1784388600",
       "strategy": "P2A",
       "side": "UP",
@@ -58,21 +58,21 @@
       "slip_pnl": -1.02,
       "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-07-18 15:44:59 UTC"
+      "time": "2026-07-18 15:46:54 UTC"
     },
     {
-      "market": 189,
+      "market": 190,
       "slug": "btc-updown-5m-1784389200",
       "strategy": "P2A",
       "side": "UP",
       "entry": 0.84,
       "elapsed": 266,
-      "result": "pending",
-      "net_pnl": null,
-      "slip_pnl": null,
-      "winner": "",
+      "result": "loss",
+      "net_pnl": -1.02,
+      "slip_pnl": -1.02,
+      "winner": "DOWN",
       "mode": "paper",
-      "time": "2026-07-18 15:44:59 UTC"
+      "time": "2026-07-18 15:46:54 UTC"
     },
     {
       "market": 110,
