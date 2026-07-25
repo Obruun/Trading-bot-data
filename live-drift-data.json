@@ -1,22 +1,35 @@
 {
-  "last_updated": "2026-07-25 13:49:29 UTC",
+  "last_updated": "2026-07-25 13:55:13 UTC",
   "mode": "live",
   "summary": {
-    "total_pnl": -36.29,
+    "total_pnl": -37.35,
     "peak_pnl": 0.41,
-    "markets_seen": 54,
-    "markets_traded": 57,
+    "markets_seen": 56,
+    "markets_traded": 58,
     "wins": 17,
-    "losses": 40,
-    "win_rate": 29.8,
+    "losses": 41,
+    "win_rate": 29.3,
     "daily_stop_loss_hit": false,
     "best_trade": 0.66,
     "worst_trade": -1.06,
-    "hour_pnl": -36.29,
+    "hour_pnl": -37.35,
     "hour_wins": 17,
-    "hour_losses": 40
+    "hour_losses": 41
   },
   "trades": [
+    {
+      "market": 166,
+      "time": "2026-07-25 13:45:00 UTC",
+      "token": "UP",
+      "entry_price": 0.79,
+      "fill_price": 0.8,
+      "edge": 0.0961,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -37.35,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
     {
       "market": 165,
       "time": "2026-07-25 13:40:00 UTC",
