@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-25 14:14:33 UTC",
+  "last_updated": "2026-07-25 15:06:19 UTC",
   "mode": "live",
   "summary": {
     "total_pnl": -38.41,
     "peak_pnl": 0.41,
-    "markets_seen": 59,
+    "markets_seen": 70,
     "markets_traded": 59,
     "wins": 17,
     "losses": 42,
@@ -67,6 +67,19 @@
       "pnl": 0.41,
       "running_pnl": -35.23,
       "result": "win",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 182,
+      "time": "2026-07-25 15:06:19 UTC",
+      "token": "DOWN",
+      "entry_price": 0.12,
+      "fill_price": 0.12999989859997768,
+      "edge": 0.1222292455074846,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
       "strategy": "hour_v1"
     }
   ]
