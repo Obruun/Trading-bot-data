@@ -1,1 +1,125 @@
-
+{
+  "last_updated": "2026-07-26 06:56:02 UTC",
+  "mode": "live",
+  "summary": {
+    "total_pnl": -50.63,
+    "peak_pnl": 0.0,
+    "markets_seen": 108,
+    "markets_traded": 72,
+    "wins": 18,
+    "losses": 54,
+    "win_rate": 25.0,
+    "daily_stop_loss_hit": false,
+    "best_trade": 0.66,
+    "worst_trade": -1.06,
+    "hour_pnl": -50.63,
+    "hour_wins": 18,
+    "hour_losses": 54
+  },
+  "trades": [
+    {
+      "market": 61,
+      "time": "2026-07-26 05:00:00 UTC",
+      "token": "UP",
+      "entry_price": 0.19,
+      "fill_price": 0.2,
+      "edge": 0.0659,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -50.63,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 60,
+      "time": "2026-07-26 04:55:00 UTC",
+      "token": "UP",
+      "entry_price": 0.19,
+      "fill_price": 0.2,
+      "edge": 0.0609,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -49.57,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 57,
+      "time": "2026-07-26 04:40:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.17,
+      "fill_price": 0.18,
+      "edge": 0.0668,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -48.51,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 40,
+      "time": "2026-07-26 03:15:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.81,
+      "fill_price": 0.82,
+      "edge": 0.0637,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -47.45,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 14,
+      "time": "2026-07-26 01:05:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.15,
+      "fill_price": 0.16,
+      "edge": 0.0649,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -46.39,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 13,
+      "time": "2026-07-26 01:00:00 UTC",
+      "token": "UP",
+      "entry_price": 0.74,
+      "fill_price": 0.76,
+      "edge": 0.0714,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -45.33,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 1,
+      "time": "2026-07-25 22:45:00 UTC",
+      "token": "DOWN",
+      "entry_price": 0.79,
+      "fill_price": 0.81,
+      "edge": 0.0782,
+      "outcome": "loss @ redemption",
+      "pnl": -1.06,
+      "running_pnl": -44.27,
+      "result": "loss",
+      "strategy": "hour_v1"
+    },
+    {
+      "market": 84,
+      "time": "2026-07-26 06:56:01 UTC",
+      "token": "UP",
+      "entry_price": 0.57,
+      "fill_price": 0.5699998232997014,
+      "edge": 0.21391337799635168,
+      "outcome": "pending",
+      "pnl": null,
+      "running_pnl": null,
+      "result": "pending",
+      "strategy": "hour_v1"
+    }
+  ]
+}
